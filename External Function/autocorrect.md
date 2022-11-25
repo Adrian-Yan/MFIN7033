@@ -10,23 +10,21 @@ spell(text)
 Speller(text, language, fast=False, only_replacements=False)
 ```
 
-- text: str
+- `text`: `str`
 
   An input string of the words you want to correct.
 
-- language: str
+- `language`: `str`
 
-  Designate the language of text input, for example, English is 'en'.
+  Designate the language of text input, for example, English is `en`.
 
-- fast: boolean
+- `fast`: `boolean`
 
   Limit the correction to tackle only one typo. When fast=True, this would guarantee the correction time for each typical word in <1ms.
 
-- only_replacements: boolean
+- `only_replacements`: `boolean`
 
-  When cleaning up text from OCR, replacements are the large majority of errors. Letting only_replacements=True will force the function to only correct the replacement errors in the input text, thus speeding up the correction process.
+  When cleaning up text from OCR, replacements are the large majority of errors. Letting `only_replacements=True` will force the function to only correct the replacement errors in the input text, thus speeding up the correction process.
 
 
-
-Example:
 

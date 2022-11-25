@@ -1,0 +1,2127 @@
+source,target,Type,Id,Label,timeset,weight
+Chicago O'hare Intl,San Francisco Intl,Directed,0,,,0.1804
+Chicago O'hare Intl,Phoenix Sky Harbor Intl,Directed,1,,,0.1474
+Chicago O'hare Intl,Lambert-St Louis Intl,Directed,2,,,0.0332
+Chicago O'hare Intl,Pittsburgh Intll,Directed,3,,,0.0416
+Chicago O'hare Intl,Philadelphia Intl,Directed,4,,,0.0676
+Seattle-Tacoma Intl,Chicago O'hare Intl,Directed,5,,,0.1828
+Chicago O'hare Intl,Salt Lake City Intl,Directed,6,,,0.1231
+Chicago O'hare Intl,San Diego Intl-Lindbergh Fld,Directed,7,,,0.1733
+Chicago O'hare Intl,Tampa Intl,Directed,8,,,0.1366
+Chicago O'hare Intl,Raleigh-Durham Intll,Directed,9,,,0.0745
+Chicago O'hare Intl,Luis Munoz Marin Intl,Directed,10,,,0.251
+Chicago O'hare Intl,San Jose Intll,Directed,11,,,0.1788
+Portland Intl,Chicago O'hare Intl,Directed,12,,,0.18
+Chicago O'hare Intl,Palm Beach Intl,Directed,13,,,0.1514
+Chicago O'hare Intl,San Antonio Intl,Directed,14,,,0.1305
+Chicago O'hare Intl,John Wayne Airport-Orange Coun,Directed,15,,,0.172
+Chicago O'hare Intl,Sacramento Metropolitan,Directed,16,,,0.1744
+Chicago O'hare Intl,Southwest Florida Intl,Directed,17,,,0.1508
+Chicago O'hare Intl,Reno/Tahoe Intll,Directed,18,,,0.164
+Chicago O'hare Intl,Tulsa Intl,Directed,19,,,0.0686
+Chicago O'hare Intl,Norfolk Intl,Directed,20,,,0.0769
+Chicago O'hare Intl,Tucson Intl,Directed,21,,,0.1504
+Syracuse Hancock Intl,Chicago O'hare Intl,Directed,22,,,0.0611
+Bangor Intl,Chicago O'hare Intl,Directed,23,,,0.1008
+Greater Rochester Intl,Chicago O'hare Intl,Directed,24,,,0.0532
+Chicago O'hare Intl,Theodore Francis Green State,Directed,25,,,0.0839
+Chicago O'hare Intl,Louisville Intl,Directed,26,,,0.0379
+Chicago O'hare Intl,Sarasota/Bradenton Intl,Directed,27,,,0.1419
+Chicago O'hare Intl,Richmond Intll,Directed,28,,,0.0688
+Chicago O'hare Intl,Mc Ghee Tyson,Directed,29,,,0.0622
+Portland Intl Jetport,Chicago O'hare Intl,Directed,30,,,0.091
+Chicago O'hare Intl,Savannah Intll,Directed,31,,,0.1001
+Chicago O'hare Intl,Palm Springs Regional,Directed,32,,,0.1652
+Chicago O'hare Intl,Michiana Rgnl Transportation C,Directed,33,,,0.0085
+Chicago O'hare Intl,Roanoke Regional/Woodrum Field,Directed,34,,,0.06
+Chicago O'hare Intl,Toledo Express,Directed,35,,,0.0212
+Chicago O'hare Intl,Yeager,Directed,36,,,0.0471
+Chicago O'hare Intl,Greater Peoria Regional,Directed,37,,,0.0155
+Chicago O'hare Intl,Stewart Int'l,Directed,38,,,0.0704
+Rapid City Regional,Chicago O'hare Intl,Directed,39,,,0.0797
+Rochester Intll,Chicago O'hare Intl,Directed,40,,,0.0298
+Chicago O'hare Intl,Capital,Directed,41,,,0.0223
+Cherry Capital,Chicago O'hare Intl,Directed,42,,,0.0289
+Greater Rockford,Chicago O'hare Intl,Directed,43,,,0.0065
+Wittman Regional,Chicago O'hare Intl,Directed,44,,,0.0195
+Chicago O'hare Intl,Dallas/Fort Worth Intl,Directed,45,,,0.0985
+Los Angeles Intl,Dallas/Fort Worth Intl,Directed,46,,,0.1093
+San Francisco Intl,Dallas/Fort Worth Intl,Directed,47,,,0.1367
+John F Kennedy Intl,Dallas/Fort Worth Intl,Directed,48,,,0.1396
+Dallas/Fort Worth Intl,Miami Intl,Directed,49,,,0.109
+La Guardia,Dallas/Fort Worth Intl,Directed,50,,,0.14
+Newark Intl,Dallas/Fort Worth Intl,Directed,51,,,0.1383
+Phoenix Sky Harbor Intl,Dallas/Fort Worth Intl,Directed,52,,,0.0765
+Detroit Metropolitan Wayne Cou,Dallas/Fort Worth Intl,Directed,53,,,0.1131
+Dallas/Fort Worth Intl,Honolulu Intl,Directed,54,,,0.3292
+Lambert-St Louis Intl,Dallas/Fort Worth Intl,Directed,55,,,0.0655
+Minneapolis-St Paul Intl/Wold-,Dallas/Fort Worth Intl,Directed,56,,,0.1162
+Mc Carran Intl,Dallas/Fort Worth Intl,Directed,57,,,0.0972
+Dallas/Fort Worth Intl,Orlando Intl,Directed,58,,,0.0907
+Pittsburgh Intll,Dallas/Fort Worth Intl,Directed,59,,,0.1122
+Dallas/Fort Worth Intl,Houston Intercontinental,Directed,60,,,0.0291
+Philadelphia Intl,Dallas/Fort Worth Intl,Directed,61,,,0.1295
+Seattle-Tacoma Intl,Dallas/Fort Worth Intl,Directed,62,,,0.1894
+Salt Lake City Intl,Dallas/Fort Worth Intl,Directed,63,,,0.1071
+Dallas/Fort Worth Intl,San Diego Intl-Lindbergh Fld,Directed,64,,,0.1026
+Dallas/Fort Worth Intl,Tampa Intl,Directed,65,,,0.0876
+Washington Dulles Intl,Dallas/Fort Worth Intl,Directed,66,,,0.1152
+Raleigh-Durham Intll,Dallas/Fort Worth Intl,Directed,67,,,0.0972
+Dallas/Fort Worth Intl,Fort Lauderdale/Hollywood Intl,Directed,68,,,0.1079
+Memphis Intl,Dallas/Fort Worth Intl,Directed,69,,,0.0414
+Dallas/Fort Worth Intl,Luis Munoz Marin Intl,Directed,70,,,0.2098
+Dallas/Fort Worth Intl,William P Hobby,Directed,71,,,0.0323
+Chicago Midway,Dallas/Fort Worth Intl,Directed,72,,,0.0973
+Kansas City Intl,Dallas/Fort Worth Intl,Directed,73,,,0.0623
+Dallas/Fort Worth Intl,New Orleans Intl/Moisant Fld/,Directed,74,,,0.0442
+San Jose Intll,Dallas/Fort Worth Intl,Directed,75,,,0.1338
+Portland Intl,Dallas/Fort Worth Intl,Directed,76,,,0.1779
+Indianapolis Intl,Dallas/Fort Worth Intl,Directed,77,,,0.0851
+Dallas/Fort Worth Intl,Palm Beach Intl,Directed,78,,,0.1047
+Metropolitan Oakland Intl,Dallas/Fort Worth Intl,Directed,79,,,0.1363
+Dallas/Fort Worth Intl,San Antonio Intl,Directed,80,,,0.0329
+Ontario Intl,Dallas/Fort Worth Intl,Directed,81,,,0.1053
+John Wayne Airport-Orange Coun,Dallas/Fort Worth Intl,Directed,82,,,0.1064
+General Mitchell Intll,Dallas/Fort Worth Intl,Directed,83,,,0.1068
+Sacramento Metropolitan,Dallas/Fort Worth Intl,Directed,84,,,0.1369
+Dallas/Fort Worth Intl,Southwest Florida Intl,Directed,85,,,0.0987
+Dallas/Fort Worth Intl,El Paso Intl,Directed,86,,,0.0487
+Will Rogers World,Dallas/Fort Worth Intl,Directed,87,,,0.0241
+Reno/Tahoe Intll,Dallas/Fort Worth Intl,Directed,88,,,0.1319
+Tulsa Intl,Dallas/Fort Worth Intl,Directed,89,,,0.0321
+Dallas/Fort Worth Intl,Jacksonville Intl,Directed,90,,,0.0815
+Norfolk Intl,Dallas/Fort Worth Intl,Directed,91,,,0.1128
+Dallas/Fort Worth Intl,Tucson Intl,Directed,92,,,0.0712
+Louisville Intl,Dallas/Fort Worth Intl,Directed,93,,,0.0765
+Eppley Airfield,Dallas/Fort Worth Intl,Directed,94,,,0.0806
+Adams Field,Dallas/Fort Worth Intl,Directed,95,,,0.0302
+Richmond Intll,Dallas/Fort Worth Intl,Directed,96,,,0.1097
+Piedmont Triad Intll,Dallas/Fort Worth Intl,Directed,97,,,0.0923
+Des Moines Intl,Dallas/Fort Worth Intl,Directed,98,,,0.0844
+Long Beach /Daugherty Field/,Dallas/Fort Worth Intl,Directed,99,,,0.1079
+Lubbock Intl,Dallas/Fort Worth Intl,Directed,100,,,0.0255
+Dallas/Fort Worth Intl,Midland Intll,Directed,101,,,0.0278
+Wichita Mid-Continent,Dallas/Fort Worth Intl,Directed,102,,,0.0455
+Mc Ghee Tyson,Dallas/Fort Worth Intl,Directed,103,,,0.072
+Dallas/Fort Worth Intl,Rio Grande Valley Intl,Directed,104,,,0.0638
+Dallas/Fort Worth Intl,Savannah Intll,Directed,105,,,0.0809
+Huntsville Intl-Carl T Jones F,Dallas/Fort Worth Intl,Directed,106,,,0.0549
+Fresno Air Terminal,Dallas/Fort Worth Intl,Directed,107,,,0.1213
+Palm Springs Regional,Dallas/Fort Worth Intl,Directed,108,,,0.0996
+Dallas/Fort Worth Intl,Pensacola Regional,Directed,109,,,0.0553
+Dallas/Fort Worth Intl,Jackson Intll,Directed,110,,,0.0358
+Dallas/Fort Worth Intl,Mobile Regional,Directed,111,,,0.0495
+Dallas/Fort Worth Intl,Shreveport Regional,Directed,112,,,0.0169
+Santa Barbara Muni,Dallas/Fort Worth Intl,Directed,113,,,0.117
+Dallas/Fort Worth Intl,Mc Allen Miller Intl,Directed,114,,,0.0645
+Springfield Regional,Dallas/Fort Worth Intl,Directed,115,,,0.0456
+Jackson Hole,Dallas/Fort Worth Intl,Directed,116,,,0.1239
+Drake Field,Dallas/Fort Worth Intl,Directed,117,,,0.0331
+Dallas/Fort Worth Intl,Lafayette Regional,Directed,118,,,0.0363
+Dallas/Fort Worth Intl,Monroe Regional,Directed,119,,,0.0257
+Fort Smith Regional,Dallas/Fort Worth Intl,Directed,120,,,0.0271
+Dallas/Fort Worth Intl,Tyler Pounds Field,Directed,121,,,0.0097
+Elko Muni-J.C. Harris Field,Dallas/Fort Worth Intl,Directed,122,,,0.1219
+Lawton Muni,Dallas/Fort Worth Intl,Directed,123,,,0.0175
+Dallas/Fort Worth Intl,Alexandria Esler Regional,Directed,124,,,0.028
+Dallas/Fort Worth Intl,Mathis Field,Directed,125,,,0.0229
+Dallas/Fort Worth Intl,Lake Charles Regional,Directed,126,,,0.0328
+Sheppard Afb/Wichita Falls Mun,Dallas/Fort Worth Intl,Directed,127,,,0.0128
+Dallas/Fort Worth Intl,Laredo Intl,Directed,128,,,0.0526
+Gunnison County,Dallas/Fort Worth Intl,Directed,129,,,0.0738
+Dallas/Fort Worth Intl,Killeen Muni,Directed,130,,,0.0176
+Yampa Valley,Dallas/Fort Worth Intl,Directed,131,,,0.0892
+Texarkana Regional-Webb Field,Dallas/Fort Worth Intl,Directed,132,,,0.0164
+Dallas/Fort Worth Intl,Gregg County,Directed,133,,,0.0127
+Eagle County Regional,Dallas/Fort Worth Intl,Directed,134,,,0.0818
+Chicago O'hare Intl,The William B Hartsfield Atlan,Directed,135,,,0.0815
+The William B Hartsfield Atlan,Dallas/Fort Worth Intl,Directed,136,,,0.0646
+Los Angeles Intl,The William B Hartsfield Atlan,Directed,137,,,0.173
+San Francisco Intl,The William B Hartsfield Atlan,Directed,138,,,0.1969
+John F Kennedy Intl,The William B Hartsfield Atlan,Directed,139,,,0.086
+Stapleton Intl,The William B Hartsfield Atlan,Directed,140,,,0.1195
+The William B Hartsfield Atlan,Miami Intl,Directed,141,,,0.0779
+La Guardia,The William B Hartsfield Atlan,Directed,142,,,0.0868
+General Edward Lawrence Logan,The William B Hartsfield Atlan,Directed,143,,,0.1078
+Newark Intl,The William B Hartsfield Atlan,Directed,144,,,0.0852
+The William B Hartsfield Atlan,Phoenix Sky Harbor Intl,Directed,145,,,0.1405
+Detroit Metropolitan Wayne Cou,The William B Hartsfield Atlan,Directed,146,,,0.0821
+The William B Hartsfield Atlan,Honolulu Intl,Directed,147,,,0.3924
+Lambert-St Louis Intl,The William B Hartsfield Atlan,Directed,148,,,0.0574
+Minneapolis-St Paul Intl/Wold-,The William B Hartsfield Atlan,Directed,149,,,0.1163
+Mc Carran Intl,The William B Hartsfield Atlan,Directed,150,,,0.1582
+The William B Hartsfield Atlan,Orlando Intl,Directed,151,,,0.0523
+Pittsburgh Intll,The William B Hartsfield Atlan,Directed,152,,,0.0688
+The William B Hartsfield Atlan,Houston Intercontinental,Directed,153,,,0.0657
+Philadelphia Intl,The William B Hartsfield Atlan,Directed,154,,,0.0757
+Seattle-Tacoma Intl,The William B Hartsfield Atlan,Directed,155,,,0.2336
+Charlotte/Douglas Intl,The William B Hartsfield Atlan,Directed,156,,,0.0232
+Washington National,The William B Hartsfield Atlan,Directed,157,,,0.0624
+Salt Lake City Intl,The William B Hartsfield Atlan,Directed,158,,,0.156
+The William B Hartsfield Atlan,San Diego Intl-Lindbergh Fld,Directed,159,,,0.167
+The William B Hartsfield Atlan,Tampa Intl,Directed,160,,,0.0551
+Baltimore-Washington Intl,The William B Hartsfield Atlan,Directed,161,,,0.0659
+Washington Dulles Intl,The William B Hartsfield Atlan,Directed,162,,,0.0618
+Raleigh-Durham Intll,The William B Hartsfield Atlan,Directed,163,,,0.0357
+Cincinnati/Northern Kentucky I,The William B Hartsfield Atlan,Directed,164,,,0.0516
+The William B Hartsfield Atlan,Fort Lauderdale/Hollywood Intl,Directed,165,,,0.0756
+Memphis Intl,The William B Hartsfield Atlan,Directed,166,,,0.0313
+Cleveland-Hopkins Intl,The William B Hartsfield Atlan,Directed,167,,,0.0753
+The William B Hartsfield Atlan,Luis Munoz Marin Intl,Directed,168,,,0.1729
+The William B Hartsfield Atlan,William P Hobby,Directed,169,,,0.0672
+Chicago Midway,The William B Hartsfield Atlan,Directed,170,,,0.0796
+Nashville Intll,The William B Hartsfield Atlan,Directed,171,,,0.0263
+Kansas City Intl,The William B Hartsfield Atlan,Directed,172,,,0.0752
+The William B Hartsfield Atlan,New Orleans Intl/Moisant Fld/,Directed,173,,,0.0458
+Portland Intl,The William B Hartsfield Atlan,Directed,174,,,0.2254
+Indianapolis Intl,The William B Hartsfield Atlan,Directed,175,,,0.0588
+The William B Hartsfield Atlan,Palm Beach Intl,Directed,176,,,0.0701
+The William B Hartsfield Atlan,San Antonio Intl,Directed,177,,,0.0816
+Ontario Intl,The William B Hartsfield Atlan,Directed,178,,,0.1689
+Bradley Intl,The William B Hartsfield Atlan,Directed,179,,,0.0992
+John Wayne Airport-Orange Coun,The William B Hartsfield Atlan,Directed,180,,,0.1703
+General Mitchell Intll,The William B Hartsfield Atlan,Directed,181,,,0.0906
+The William B Hartsfield Atlan,Robert Mueller Muni,Directed,182,,,0.0748
+James M Cox Dayton Intl,The William B Hartsfield Atlan,Directed,183,,,0.0598
+Port Columbus Intl,The William B Hartsfield Atlan,Directed,184,,,0.0612
+The William B Hartsfield Atlan,Southwest Florida Intl,Directed,185,,,0.0692
+Greater Buffalo Intl,The William B Hartsfield Atlan,Directed,186,,,0.0934
+The William B Hartsfield Atlan,El Paso Intl,Directed,187,,,0.1132
+Will Rogers World,The William B Hartsfield Atlan,Directed,188,,,0.0691
+Tulsa Intl,The William B Hartsfield Atlan,Directed,189,,,0.0633
+The William B Hartsfield Atlan,Jacksonville Intl,Directed,190,,,0.0332
+Norfolk Intl,The William B Hartsfield Atlan,Directed,191,,,0.0521
+Syracuse Hancock Intl,The William B Hartsfield Atlan,Directed,192,,,0.0998
+Greater Rochester Intl,The William B Hartsfield Atlan,Directed,193,,,0.0968
+Theodore Francis Green State,The William B Hartsfield Atlan,Directed,194,,,0.1017
+The William B Hartsfield Atlan,Birmingham Intl,Directed,195,,,0.0118
+Louisville Intl,The William B Hartsfield Atlan,Directed,196,,,0.0438
+Eppley Airfield,The William B Hartsfield Atlan,Directed,197,,,0.0936
+The William B Hartsfield Atlan,Sarasota/Bradenton Intl,Directed,198,,,0.0605
+Adams Field,The William B Hartsfield Atlan,Directed,199,,,0.041
+Richmond Intll,The William B Hartsfield Atlan,Directed,200,,,0.0517
+Piedmont Triad Intll,The William B Hartsfield Atlan,Directed,201,,,0.0327
+The William B Hartsfield Atlan,Charleston Afb/Intl,Directed,202,,,0.0234
+Harrisburg Intll,The William B Hartsfield Atlan,Directed,203,,,0.0738
+Greenville-Spartanburg,The William B Hartsfield Atlan,Directed,204,,,0.0165
+Mc Ghee Tyson,The William B Hartsfield Atlan,Directed,205,,,0.0208
+The William B Hartsfield Atlan,Cyril E King,Directed,206,,,0.1767
+Columbia Metropolitan,The William B Hartsfield Atlan,Directed,207,,,0.0171
+The William B Hartsfield Atlan,Savannah Intll,Directed,208,,,0.0219
+The William B Hartsfield Atlan,Daytona Beach Intl,Directed,209,,,0.046
+Huntsville Intl-Carl T Jones F,The William B Hartsfield Atlan,Directed,210,,,0.0152
+The William B Hartsfield Atlan,Tallahassee Regional,Directed,211,,,0.031
+The William B Hartsfield Atlan,"Baton Rouge Metropolitan, Ryan",Directed,212,,,0.0453
+The William B Hartsfield Atlan,Pensacola Regional,Directed,213,,,0.0334
+The William B Hartsfield Atlan,Jackson Intll,Directed,214,,,0.0315
+Blue Grass,The William B Hartsfield Atlan,Directed,215,,,0.042
+The William B Hartsfield Atlan,Mobile Regional,Directed,216,,,0.0342
+The William B Hartsfield Atlan,Melbourne Intll,Directed,217,,,0.0564
+Fort Wayne Intll,The William B Hartsfield Atlan,Directed,218,,,0.0702
+The William B Hartsfield Atlan,Shreveport Regional,Directed,219,,,0.0493
+Toledo Express,The William B Hartsfield Atlan,Directed,220,,,0.076
+Lovell Field,The William B Hartsfield Atlan,Directed,221,,,0.0139
+Asheville Regional,The William B Hartsfield Atlan,Directed,222,,,0.0196
+Wilkes-Barre/Scranton Intl,The William B Hartsfield Atlan,Directed,223,,,0.0858
+The William B Hartsfield Atlan,Gainesville Regional,Directed,224,,,0.0394
+Tri-Cities Regional Tn/Va,The William B Hartsfield Atlan,Directed,225,,,0.0289
+The William B Hartsfield Atlan,Dannelly Field,Directed,226,,,0.0163
+Stewart Int'l,The William B Hartsfield Atlan,Directed,227,,,0.0917
+The William B Hartsfield Atlan,Columbus Metropolitan,Directed,228,,,0.0111
+The William B Hartsfield Atlan,Monroe Regional,Directed,229,,,0.0403
+The William B Hartsfield Atlan,Panama City-Bay Co Intl,Directed,230,,,0.0334
+Gunnison County,The William B Hartsfield Atlan,Directed,231,,,0.1237
+Chicago O'hare Intl,Los Angeles Intl,Directed,232,,,0.1733
+San Francisco Intl,Los Angeles Intl,Directed,233,,,0.0406
+Los Angeles Intl,Miami Intl,Directed,234,,,0.2091
+Los Angeles Intl,Phoenix Sky Harbor Intl,Directed,235,,,0.0329
+Lambert-St Louis Intl,Los Angeles Intl,Directed,236,,,0.15
+Minneapolis-St Paul Intl/Wold-,Los Angeles Intl,Directed,237,,,0.1655
+Los Angeles Intl,Orlando Intl,Directed,238,,,0.1961
+Pittsburgh Intll,Los Angeles Intl,Directed,239,,,0.2042
+Philadelphia Intl,Los Angeles Intl,Directed,240,,,0.227
+Seattle-Tacoma Intl,Los Angeles Intl,Directed,241,,,0.1305
+Salt Lake City Intl,Los Angeles Intl,Directed,242,,,0.0731
+Los Angeles Intl,San Diego Intl-Lindbergh Fld,Directed,243,,,0.0131
+Los Angeles Intl,Tampa Intl,Directed,244,,,0.1914
+Memphis Intl,Los Angeles Intl,Directed,245,,,0.1451
+Kansas City Intl,Los Angeles Intl,Directed,246,,,0.131
+Los Angeles Intl,New Orleans Intl/Moisant Fld/,Directed,247,,,0.1482
+San Jose Intll,Los Angeles Intl,Directed,248,,,0.0373
+Portland Intl,Los Angeles Intl,Directed,249,,,0.1133
+Metropolitan Oakland Intl,Los Angeles Intl,Directed,250,,,0.041
+Los Angeles Intl,John Wayne Airport-Orange Coun,Directed,251,,,0.0037
+Los Angeles Intl,Kahului,Directed,252,,,0.2303
+General Mitchell Intll,Los Angeles Intl,Directed,253,,,0.1776
+Sacramento Metropolitan,Los Angeles Intl,Directed,254,,,0.0483
+Burbank-Glendale-Pasadena,Los Angeles Intl,Directed,255,,,0.0025
+Reno/Tahoe Intll,Los Angeles Intl,Directed,256,,,0.0536
+Los Angeles Intl,Tucson Intl,Directed,257,,,0.0418
+Los Angeles Intl,Palm Springs Regional,Directed,258,,,0.0097
+Santa Barbara Muni,Los Angeles Intl,Directed,259,,,0.0087
+Monterey Peninsula,Los Angeles Intl,Directed,260,,,0.0308
+Los Angeles Intl,Pago Pago Intl,Directed,261,,,0.5326
+Oxnard,Los Angeles Intl,Directed,262,,,0.0048
+Eagle County Regional,Los Angeles Intl,Directed,263,,,0.08
+Lambert-St Louis Intl,San Francisco Intl,Directed,264,,,0.1634
+Salt Lake City Intl,San Francisco Intl,Directed,265,,,0.0609
+San Francisco Intl,San Jose Intll,Directed,266,,,0.0033
+Metropolitan Oakland Intl,San Francisco Intl,Directed,267,,,0.0011
+San Francisco Intl,John Wayne Airport-Orange Coun,Directed,268,,,0.0441
+Sacramento Metropolitan,San Francisco Intl,Directed,269,,,0.011
+Lake Tahoe,San Francisco Intl,Directed,270,,,0.0171
+Sonoma County,San Francisco Intl,Directed,271,,,0.0088
+San Francisco Intl,Santa Maria Pub/Capt G Allan H,Directed,272,,,0.0278
+Chicago O'hare Intl,John F Kennedy Intl,Directed,273,,,0.073
+John F Kennedy Intl,Los Angeles Intl,Directed,274,,,0.236
+John F Kennedy Intl,San Francisco Intl,Directed,275,,,0.2491
+John F Kennedy Intl,Miami Intl,Directed,276,,,0.1456
+La Guardia,John F Kennedy Intl,Directed,277,,,0.0014
+John F Kennedy Intl,Phoenix Sky Harbor Intl,Directed,278,,,0.2065
+John F Kennedy Intl,Lambert-St Louis Intl,Directed,279,,,0.0863
+Minneapolis-St Paul Intl/Wold-,John F Kennedy Intl,Directed,280,,,0.1069
+John F Kennedy Intl,Mc Carran Intl,Directed,281,,,0.2151
+John F Kennedy Intl,Orlando Intl,Directed,282,,,0.1227
+John F Kennedy Intl,Pittsburgh Intll,Directed,283,,,0.0328
+John F Kennedy Intl,Philadelphia Intl,Directed,284,,,0.0104
+Seattle-Tacoma Intl,John F Kennedy Intl,Directed,285,,,0.2555
+Salt Lake City Intl,John F Kennedy Intl,Directed,286,,,0.1945
+John F Kennedy Intl,San Diego Intl-Lindbergh Fld,Directed,287,,,0.2335
+John F Kennedy Intl,Tampa Intl,Directed,288,,,0.1289
+John F Kennedy Intl,Raleigh-Durham Intll,Directed,289,,,0.0522
+John F Kennedy Intl,Luis Munoz Marin Intl,Directed,290,,,0.2158
+John F Kennedy Intl,New Orleans Intl/Moisant Fld/,Directed,291,,,0.1318
+John F Kennedy Intl,Palm Beach Intl,Directed,292,,,0.1371
+John F Kennedy Intl,Norfolk Intl,Directed,293,,,0.0379
+Syracuse Hancock Intl,John F Kennedy Intl,Directed,294,,,0.0264
+Greater Rochester Intl,John F Kennedy Intl,Directed,295,,,0.0309
+John F Kennedy Intl,Richmond Intll,Directed,296,,,0.0349
+John F Kennedy Intl,Cyril E King,Directed,297,,,0.2178
+John F Kennedy Intl,Mercedita,Directed,298,,,0.2193
+Chicago O'hare Intl,Stapleton Intl,Directed,299,,,0.089
+Stapleton Intl,Dallas/Fort Worth Intl,Directed,300,,,0.077
+Stapleton Intl,Los Angeles Intl,Directed,301,,,0.0886
+Stapleton Intl,San Francisco Intl,Directed,302,,,0.0914
+John F Kennedy Intl,Stapleton Intl,Directed,303,,,0.1586
+Stapleton Intl,Miami Intl,Directed,304,,,0.1832
+La Guardia,Stapleton Intl,Directed,305,,,0.1583
+Newark Intl,Stapleton Intl,Directed,306,,,0.1567
+Stapleton Intl,Phoenix Sky Harbor Intl,Directed,307,,,0.0706
+Detroit Metropolitan Wayne Cou,Stapleton Intl,Directed,308,,,0.1121
+Stapleton Intl,Honolulu Intl,Directed,309,,,0.3226
+Stapleton Intl,Lambert-St Louis Intl,Directed,310,,,0.0746
+Minneapolis-St Paul Intl/Wold-,Stapleton Intl,Directed,311,,,0.077
+Stapleton Intl,Mc Carran Intl,Directed,312,,,0.0631
+Stapleton Intl,Orlando Intl,Directed,313,,,0.1618
+Pittsburgh Intll,Stapleton Intl,Directed,314,,,0.1258
+Stapleton Intl,Houston Intercontinental,Directed,315,,,0.1055
+Philadelphia Intl,Stapleton Intl,Directed,316,,,0.151
+Seattle-Tacoma Intl,Stapleton Intl,Directed,317,,,0.115
+Salt Lake City Intl,Stapleton Intl,Directed,318,,,0.0374
+Stapleton Intl,San Diego Intl-Lindbergh Fld,Directed,319,,,0.0919
+Stapleton Intl,Tampa Intl,Directed,320,,,0.1603
+Stapleton Intl,Washington Dulles Intl,Directed,321,,,0.1399
+Stapleton Intl,Memphis Intl,Directed,322,,,0.0883
+Stapleton Intl,William P Hobby,Directed,323,,,0.1085
+Chicago Midway,Stapleton Intl,Directed,324,,,0.0894
+Stapleton Intl,Kansas City Intl,Directed,325,,,0.052
+Stapleton Intl,New Orleans Intl/Moisant Fld/,Directed,326,,,0.1196
+Stapleton Intl,San Jose Intll,Directed,327,,,0.0898
+Portland Intl,Stapleton Intl,Directed,328,,,0.1059
+Stapleton Intl,Indianapolis Intl,Directed,329,,,0.0947
+Stapleton Intl,Metropolitan Oakland Intl,Directed,330,,,0.0905
+Stapleton Intl,San Antonio Intl,Directed,331,,,0.1032
+Stapleton Intl,Ontario Intl,Directed,332,,,0.0847
+Stapleton Intl,John Wayne Airport-Orange Coun,Directed,333,,,0.0881
+General Mitchell Intll,Stapleton Intl,Directed,334,,,0.0917
+Stapleton Intl,Sacramento Metropolitan,Directed,335,,,0.0857
+Stapleton Intl,El Paso Intl,Directed,336,,,0.0766
+Stapleton Intl,Will Rogers World,Directed,337,,,0.056
+Stapleton Intl,Reno/Tahoe Intll,Directed,338,,,0.0758
+Stapleton Intl,Tulsa Intl,Directed,339,,,0.0572
+Stapleton Intl,Tucson Intl,Directed,340,,,0.0794
+Eppley Airfield,Stapleton Intl,Directed,341,,,0.0481
+Spokane Intl,Stapleton Intl,Directed,342,,,0.0988
+Des Moines Intl,Stapleton Intl,Directed,343,,,0.0596
+Stapleton Intl,Long Beach /Daugherty Field/,Directed,344,,,0.0883
+Stapleton Intl,Wichita Mid-Continent,Directed,345,,,0.0431
+Dane County Regional-Truax Fie,Stapleton Intl,Directed,346,,,0.0855
+Stapleton Intl,Fresno Air Terminal,Directed,347,,,0.0808
+Stapleton Intl,Palm Springs Regional,Directed,348,,,0.0821
+Quad-City,Stapleton Intl,Directed,349,,,0.0749
+Stapleton Intl,Santa Barbara Muni,Directed,350,,,0.0917
+Mahlon Sweet Field,Stapleton Intl,Directed,351,,,0.1021
+Lincoln Muni,Stapleton Intl,Directed,352,,,0.0426
+Joe Foss Field,Stapleton Intl,Directed,353,,,0.0551
+Stapleton Intl,Springfield Regional,Directed,354,,,0.0634
+Greater Peoria Regional,Stapleton Intl,Directed,355,,,0.0779
+Hector Intll,Stapleton Intl,Directed,356,,,0.0796
+Jackson Hole,Stapleton Intl,Directed,357,,,0.0472
+Stapleton Intl,Walker Field,Directed,358,,,0.0195
+Missoula Intll,Stapleton Intl,Directed,359,,,0.0828
+Sioux Gateway,Stapleton Intl,Directed,360,,,0.05
+Minot Intl,Stapleton Intl,Directed,361,,,0.0831
+Elko Muni-J.C. Harris Field,Stapleton Intl,Directed,362,,,0.0564
+Stapleton Intl,Gunnison County,Directed,363,,,0.0158
+Yampa Valley,Stapleton Intl,Directed,364,,,0.0137
+Stapleton Intl,Eagle County Regional,Directed,365,,,0.0104
+Chicago O'hare Intl,Miami Intl,Directed,366,,,0.1594
+San Francisco Intl,Miami Intl,Directed,367,,,0.2423
+Lambert-St Louis Intl,Miami Intl,Directed,368,,,0.134
+Minneapolis-St Paul Intl/Wold-,Miami Intl,Directed,369,,,0.1939
+Pittsburgh Intll,Miami Intl,Directed,370,,,0.1404
+Philadelphia Intl,Miami Intl,Directed,371,,,0.1369
+Seattle-Tacoma Intl,Miami Intl,Directed,372,,,0.2976
+San Diego Intl-Lindbergh Fld,Miami Intl,Directed,373,,,0.1993
+Tampa Intl,Miami Intl,Directed,374,,,0.0237
+Raleigh-Durham Intll,Miami Intl,Directed,375,,,0.0966
+Miami Intl,Luis Munoz Marin Intl,Directed,376,,,0.1011
+New Orleans Intl/Moisant Fld/,Miami Intl,Directed,377,,,0.0647
+San Jose Intll,Miami Intl,Directed,378,,,0.2392
+Palm Beach Intl,Miami Intl,Directed,379,,,0.0086
+General Mitchell Intll,Miami Intl,Directed,380,,,0.1684
+Miami Intl,Cyril E King,Directed,381,,,0.1057
+Tallahassee Regional,Miami Intl,Directed,382,,,0.0486
+Miami Intl,Mercedita,Directed,383,,,0.1021
+Chicago O'hare Intl,La Guardia,Directed,384,,,0.0724
+La Guardia,Miami Intl,Directed,385,,,0.1468
+La Guardia,Lambert-St Louis Intl,Directed,386,,,0.0862
+Minneapolis-St Paul Intl/Wold-,La Guardia,Directed,387,,,0.1061
+La Guardia,Orlando Intl,Directed,388,,,0.1238
+La Guardia,Pittsburgh Intll,Directed,389,,,0.0325
+La Guardia,Tampa Intl,Directed,390,,,0.13
+La Guardia,Raleigh-Durham Intll,Directed,391,,,0.0531
+La Guardia,Memphis Intl,Directed,392,,,0.0987
+Chicago Midway,La Guardia,Directed,393,,,0.0714
+La Guardia,Kansas City Intl,Directed,394,,,0.1071
+La Guardia,New Orleans Intl/Moisant Fld/,Directed,395,,,0.1326
+La Guardia,Palm Beach Intl,Directed,396,,,0.1383
+Bradley Intl,La Guardia,Directed,397,,,0.0126
+General Mitchell Intll,La Guardia,Directed,398,,,0.0745
+La Guardia,Southwest Florida Intl,Directed,399,,,0.1418
+La Guardia,Norfolk Intl,Directed,400,,,0.039
+Syracuse Hancock Intl,La Guardia,Directed,401,,,0.025
+Greater Rochester Intl,La Guardia,Directed,402,,,0.0296
+La Guardia,Louisville Intl,Directed,403,,,0.0654
+La Guardia,Richmond Intll,Directed,404,,,0.0358
+Portland Intl Jetport,La Guardia,Directed,405,,,0.0329
+La Guardia,Eagle County Regional,Directed,406,,,0.1686
+General Edward Lawrence Logan,Chicago O'hare Intl,Directed,407,,,0.0862
+General Edward Lawrence Logan,Dallas/Fort Worth Intl,Directed,408,,,0.1605
+General Edward Lawrence Logan,Los Angeles Intl,Directed,409,,,0.2545
+General Edward Lawrence Logan,San Francisco Intl,Directed,410,,,0.2655
+General Edward Lawrence Logan,John F Kennedy Intl,Directed,411,,,0.0218
+General Edward Lawrence Logan,Stapleton Intl,Directed,412,,,0.1744
+General Edward Lawrence Logan,Miami Intl,Directed,413,,,0.1652
+General Edward Lawrence Logan,La Guardia,Directed,414,,,0.0211
+General Edward Lawrence Logan,Newark Intl,Directed,415,,,0.0227
+General Edward Lawrence Logan,Phoenix Sky Harbor Intl,Directed,416,,,0.2256
+General Edward Lawrence Logan,Detroit Metropolitan Wayne Cou,Directed,417,,,0.0629
+General Edward Lawrence Logan,Lambert-St Louis Intl,Directed,418,,,0.1045
+Minneapolis-St Paul Intl/Wold-,General Edward Lawrence Logan,Directed,419,,,0.1156
+General Edward Lawrence Logan,Mc Carran Intl,Directed,420,,,0.2328
+General Edward Lawrence Logan,Orlando Intl,Directed,421,,,0.1431
+General Edward Lawrence Logan,Pittsburgh Intll,Directed,422,,,0.0503
+General Edward Lawrence Logan,Houston Intercontinental,Directed,423,,,0.1714
+General Edward Lawrence Logan,Philadelphia Intl,Directed,424,,,0.0321
+Seattle-Tacoma Intl,General Edward Lawrence Logan,Directed,425,,,0.2658
+General Edward Lawrence Logan,Charlotte/Douglas Intl,Directed,426,,,0.0851
+General Edward Lawrence Logan,Washington National,Directed,427,,,0.0455
+General Edward Lawrence Logan,Salt Lake City Intl,Directed,428,,,0.2092
+General Edward Lawrence Logan,Tampa Intl,Directed,429,,,0.1495
+General Edward Lawrence Logan,Baltimore-Washington Intl,Directed,430,,,0.042
+General Edward Lawrence Logan,Washington Dulles Intl,Directed,431,,,0.0464
+General Edward Lawrence Logan,Raleigh-Durham Intll,Directed,432,,,0.0736
+General Edward Lawrence Logan,Cincinnati/Northern Kentucky I,Directed,433,,,0.0765
+General Edward Lawrence Logan,Fort Lauderdale/Hollywood Intl,Directed,434,,,0.1625
+General Edward Lawrence Logan,Memphis Intl,Directed,435,,,0.1193
+General Edward Lawrence Logan,Cleveland-Hopkins Intl,Directed,436,,,0.056
+General Edward Lawrence Logan,Luis Munoz Marin Intl,Directed,437,,,0.23
+General Edward Lawrence Logan,San Jose Intll,Directed,438,,,0.2638
+General Edward Lawrence Logan,Indianapolis Intl,Directed,439,,,0.0819
+General Edward Lawrence Logan,Palm Beach Intl,Directed,440,,,0.1568
+General Mitchell Intll,General Edward Lawrence Logan,Directed,441,,,0.0863
+General Edward Lawrence Logan,James M Cox Dayton Intl,Directed,442,,,0.0713
+General Edward Lawrence Logan,Port Columbus Intl,Directed,443,,,0.0647
+General Edward Lawrence Logan,Southwest Florida Intl,Directed,444,,,0.1608
+Greater Buffalo Intl,General Edward Lawrence Logan,Directed,445,,,0.0398
+General Edward Lawrence Logan,Norfolk Intl,Directed,446,,,0.0586
+Syracuse Hancock Intl,General Edward Lawrence Logan,Directed,447,,,0.027
+Greater Rochester Intl,General Edward Lawrence Logan,Directed,448,,,0.0348
+General Edward Lawrence Logan,Richmond Intll,Directed,449,,,0.0565
+Portland Intl Jetport,General Edward Lawrence Logan,Directed,450,,,0.0128
+General Edward Lawrence Logan,Savannah Intll,Directed,451,,,0.1108
+Chicago O'hare Intl,Newark Intl,Directed,452,,,0.0711
+Newark Intl,Los Angeles Intl,Directed,453,,,0.2344
+Newark Intl,San Francisco Intl,Directed,454,,,0.2472
+Newark Intl,John F Kennedy Intl,Directed,455,,,0.002
+Newark Intl,Miami Intl,Directed,456,,,0.1457
+La Guardia,Newark Intl,Directed,457,,,0.0017
+Newark Intl,Phoenix Sky Harbor Intl,Directed,458,,,0.2049
+Newark Intl,Lambert-St Louis Intl,Directed,459,,,0.0845
+Minneapolis-St Paul Intl/Wold-,Newark Intl,Directed,460,,,0.105
+Newark Intl,Mc Carran Intl,Directed,461,,,0.2134
+Newark Intl,Orlando Intl,Directed,462,,,0.1226
+Newark Intl,Pittsburgh Intll,Directed,463,,,0.031
+Newark Intl,Houston Intercontinental,Directed,464,,,0.1487
+Seattle-Tacoma Intl,Newark Intl,Directed,465,,,0.2535
+Newark Intl,Tampa Intl,Directed,466,,,0.1288
+Newark Intl,Washington Dulles Intl,Directed,467,,,0.0237
+Newark Intl,Raleigh-Durham Intll,Directed,468,,,0.0517
+Newark Intl,Fort Lauderdale/Hollywood Intl,Directed,469,,,0.143
+Newark Intl,Memphis Intl,Directed,470,,,0.097
+Newark Intl,Luis Munoz Marin Intl,Directed,471,,,0.2166
+Chicago Midway,Newark Intl,Directed,472,,,0.07
+Newark Intl,Kansas City Intl,Directed,473,,,0.1055
+Newark Intl,New Orleans Intl/Moisant Fld/,Directed,474,,,0.131
+Newark Intl,Indianapolis Intl,Directed,475,,,0.0625
+Newark Intl,Palm Beach Intl,Directed,476,,,0.1372
+General Mitchell Intll,Newark Intl,Directed,477,,,0.0733
+Newark Intl,Southwest Florida Intl,Directed,478,,,0.1406
+Newark Intl,Jacksonville Intl,Directed,479,,,0.1047
+Newark Intl,Norfolk Intl,Directed,480,,,0.0378
+Syracuse Hancock Intl,Newark Intl,Directed,481,,,0.0251
+Greater Rochester Intl,Newark Intl,Directed,482,,,0.0293
+Theodore Francis Green State,Newark Intl,Directed,483,,,0.0171
+Newark Intl,Sarasota/Bradenton Intl,Directed,484,,,0.134
+Newark Intl,Richmond Intll,Directed,485,,,0.0344
+Newark Intl,Piedmont Triad Intll,Directed,486,,,0.0528
+Kent County Intl,Newark Intl,Directed,487,,,0.0616
+Newark Intl,Cyril E King,Directed,488,,,0.2187
+Portland Intl Jetport,Newark Intl,Directed,489,,,0.0344
+Long Island Mac Arthur,Newark Intl,Directed,490,,,0.0055
+Newark Intl,Savannah Intll,Directed,491,,,0.0893
+Manchester,Newark Intl,Directed,492,,,0.0255
+Newark Intl,Melbourne Intll,Directed,493,,,0.1247
+Newark Intl,Yampa Valley,Directed,494,,,0.1684
+Newark Intl,Mercedita,Directed,495,,,0.2201
+San Francisco Intl,Phoenix Sky Harbor Intl,Directed,496,,,0.0662
+Lambert-St Louis Intl,Phoenix Sky Harbor Intl,Directed,497,,,0.1214
+Pittsburgh Intll,Phoenix Sky Harbor Intl,Directed,498,,,0.1754
+Seattle-Tacoma Intl,Phoenix Sky Harbor Intl,Directed,499,,,0.1437
+Salt Lake City Intl,Phoenix Sky Harbor Intl,Directed,500,,,0.0702
+Phoenix Sky Harbor Intl,San Diego Intl-Lindbergh Fld,Directed,501,,,0.0271
+San Jose Intll,Phoenix Sky Harbor Intl,Directed,502,,,0.0629
+Phoenix Sky Harbor Intl,San Antonio Intl,Directed,503,,,0.0784
+John Wayne Airport-Orange Coun,Phoenix Sky Harbor Intl,Directed,504,,,0.0299
+Sacramento Metropolitan,Phoenix Sky Harbor Intl,Directed,505,,,0.0701
+Reno/Tahoe Intll,Phoenix Sky Harbor Intl,Directed,506,,,0.0701
+Tulsa Intl,Phoenix Sky Harbor Intl,Directed,507,,,0.0862
+Phoenix Sky Harbor Intl,Tucson Intl,Directed,508,,,0.0137
+Palm Springs Regional,Phoenix Sky Harbor Intl,Directed,509,,,0.0232
+Phoenix Sky Harbor Intl,Yuma Mcas/Yuma Intl,Directed,510,,,0.0151
+Detroit Metropolitan Wayne Cou,Chicago O'hare Intl,Directed,511,,,0.0233
+Detroit Metropolitan Wayne Cou,Los Angeles Intl,Directed,512,,,0.1952
+Detroit Metropolitan Wayne Cou,San Francisco Intl,Directed,513,,,0.2035
+Detroit Metropolitan Wayne Cou,John F Kennedy Intl,Directed,514,,,0.051
+Detroit Metropolitan Wayne Cou,Miami Intl,Directed,515,,,0.1577
+Detroit Metropolitan Wayne Cou,La Guardia,Directed,516,,,0.0502
+Detroit Metropolitan Wayne Cou,Newark Intl,Directed,517,,,0.049
+Detroit Metropolitan Wayne Cou,Phoenix Sky Harbor Intl,Directed,518,,,0.1684
+Detroit Metropolitan Wayne Cou,Lambert-St Louis Intl,Directed,519,,,0.0487
+Minneapolis-St Paul Intl/Wold-,Detroit Metropolitan Wayne Cou,Directed,520,,,0.0563
+Detroit Metropolitan Wayne Cou,Mc Carran Intl,Directed,521,,,0.1723
+Detroit Metropolitan Wayne Cou,Orlando Intl,Directed,522,,,0.1321
+Detroit Metropolitan Wayne Cou,Pittsburgh Intll,Directed,523,,,0.0229
+Detroit Metropolitan Wayne Cou,Houston Intercontinental,Directed,524,,,0.1319
+Detroit Metropolitan Wayne Cou,Philadelphia Intl,Directed,525,,,0.047
+Seattle-Tacoma Intl,Detroit Metropolitan Wayne Cou,Directed,526,,,0.2046
+Detroit Metropolitan Wayne Cou,Salt Lake City Intl,Directed,527,,,0.1464
+Detroit Metropolitan Wayne Cou,San Diego Intl-Lindbergh Fld,Directed,528,,,0.1947
+Detroit Metropolitan Wayne Cou,Tampa Intl,Directed,529,,,0.1362
+Detroit Metropolitan Wayne Cou,Washington Dulles Intl,Directed,530,,,0.0434
+Detroit Metropolitan Wayne Cou,Raleigh-Durham Intll,Directed,531,,,0.0649
+Detroit Metropolitan Wayne Cou,Fort Lauderdale/Hollywood Intl,Directed,532,,,0.1552
+Detroit Metropolitan Wayne Cou,Memphis Intl,Directed,533,,,0.0764
+Detroit Metropolitan Wayne Cou,William P Hobby,Directed,534,,,0.1346
+Detroit Metropolitan Wayne Cou,Chicago Midway,Directed,535,,,0.0228
+Detroit Metropolitan Wayne Cou,Kansas City Intl,Directed,536,,,0.0643
+Detroit Metropolitan Wayne Cou,New Orleans Intl/Moisant Fld/,Directed,537,,,0.122
+Detroit Metropolitan Wayne Cou,San Jose Intll,Directed,538,,,0.2019
+Portland Intl,Detroit Metropolitan Wayne Cou,Directed,539,,,0.2025
+Detroit Metropolitan Wayne Cou,Indianapolis Intl,Directed,540,,,0.0282
+Detroit Metropolitan Wayne Cou,Palm Beach Intl,Directed,541,,,0.1493
+Detroit Metropolitan Wayne Cou,John Wayne Airport-Orange Coun,Directed,542,,,0.1938
+General Mitchell Intll,Detroit Metropolitan Wayne Cou,Directed,543,,,0.0242
+Detroit Metropolitan Wayne Cou,Southwest Florida Intl,Directed,544,,,0.15
+Detroit Metropolitan Wayne Cou,Norfolk Intl,Directed,545,,,0.0626
+Syracuse Hancock Intl,Detroit Metropolitan Wayne Cou,Directed,546,,,0.0379
+Greater Rochester Intl,Detroit Metropolitan Wayne Cou,Directed,547,,,0.0302
+Detroit Metropolitan Wayne Cou,Theodore Francis Green State,Directed,548,,,0.0609
+Detroit Metropolitan Wayne Cou,Louisville Intl,Directed,549,,,0.0405
+Detroit Metropolitan Wayne Cou,Sarasota/Bradenton Intl,Directed,550,,,0.1417
+Detroit Metropolitan Wayne Cou,Richmond Intll,Directed,551,,,0.0545
+Kent County Intl,Detroit Metropolitan Wayne Cou,Directed,552,,,0.0128
+Detroit Metropolitan Wayne Cou,Harrisburg Intll,Directed,553,,,0.0387
+Dane County Regional-Truax Fie,Detroit Metropolitan Wayne Cou,Directed,554,,,0.0317
+Detroit Metropolitan Wayne Cou,Michiana Rgnl Transportation C,Directed,555,,,0.0159
+Detroit Metropolitan Wayne Cou,Westchester County,Directed,556,,,0.0503
+Detroit Metropolitan Wayne Cou,Fort Wayne Intll,Directed,557,,,0.0151
+Austin Straubel Intll,Detroit Metropolitan Wayne Cou,Directed,558,,,0.0326
+Capital City,Detroit Metropolitan Wayne Cou,Directed,559,,,0.0083
+Mbs Intll,Detroit Metropolitan Wayne Cou,Directed,560,,,0.0131
+Cherry Capital,Detroit Metropolitan Wayne Cou,Directed,561,,,0.0267
+Chicago O'hare Intl,Honolulu Intl,Directed,562,,,0.4076
+Los Angeles Intl,Honolulu Intl,Directed,563,,,0.2347
+San Francisco Intl,Honolulu Intl,Directed,564,,,0.2389
+Phoenix Sky Harbor Intl,Honolulu Intl,Directed,565,,,0.2609
+Lambert-St Louis Intl,Honolulu Intl,Directed,566,,,0.3823
+Minneapolis-St Paul Intl/Wold-,Honolulu Intl,Directed,567,,,0.3992
+Mc Carran Intl,Honolulu Intl,Directed,568,,,0.2595
+Seattle-Tacoma Intl,Honolulu Intl,Directed,569,,,0.3086
+San Diego Intl-Lindbergh Fld,Honolulu Intl,Directed,570,,,0.2344
+Ontario Intl,Honolulu Intl,Directed,571,,,0.2387
+Honolulu Intl,Kahului,Directed,572,,,0.0086
+Lihue,Honolulu Intl,Directed,573,,,0.0096
+Honolulu Intl,Guam Intll,Directed,574,,,0.3011
+Honolulu Intl,Keahole-Kona Intll,Directed,575,,,0.0179
+Honolulu Intl,Hilo Intll,Directed,576,,,0.0212
+Honolulu Intl,Molokai,Directed,577,,,0.0045
+Honolulu Intl,Pago Pago Intl,Directed,578,,,0.3468
+Honolulu Intl,Lanai,Directed,579,,,0.0071
+Honolulu Intl,Johnston Atoll,Directed,580,,,0.0736
+Honolulu Intl,Kapalua,Directed,581,,,0.0072
+Lambert-St Louis Intl,Tampa Intl,Directed,582,,,0.1105
+Lambert-St Louis Intl,Tulsa Intl,Directed,583,,,0.0373
+Lambert-St Louis Intl,Tucson Intl,Directed,584,,,0.1225
+Syracuse Hancock Intl,Lambert-St Louis Intl,Directed,585,,,0.0837
+Lambert-St Louis Intl,Mc Ghee Tyson,Directed,586,,,0.0429
+Sioux Gateway,Lambert-St Louis Intl,Directed,587,,,0.0465
+Quincy Muni Baldwin Field,Lambert-St Louis Intl,Directed,588,,,0.0122
+Lambert-St Louis Intl,Forney Aaf,Directed,589,,,0.0133
+Minneapolis-St Paul Intl/Wold-,Chicago O'hare Intl,Directed,590,,,0.0388
+Minneapolis-St Paul Intl/Wold-,San Francisco Intl,Directed,591,,,0.1639
+Minneapolis-St Paul Intl/Wold-,Phoenix Sky Harbor Intl,Directed,592,,,0.1454
+Minneapolis-St Paul Intl/Wold-,Lambert-St Louis Intl,Directed,593,,,0.0604
+Minneapolis-St Paul Intl/Wold-,Pittsburgh Intll,Directed,594,,,0.0783
+Minneapolis-St Paul Intl/Wold-,Philadelphia Intl,Directed,595,,,0.1033
+Seattle-Tacoma Intl,Minneapolis-St Paul Intl/Wold-,Directed,596,,,0.1502
+Minneapolis-St Paul Intl/Wold-,Salt Lake City Intl,Directed,597,,,0.1033
+Minneapolis-St Paul Intl/Wold-,San Diego Intl-Lindbergh Fld,Directed,598,,,0.1685
+Minneapolis-St Paul Intl/Wold-,Tampa Intl,Directed,599,,,0.1705
+Minneapolis-St Paul Intl/Wold-,New Orleans Intl/Moisant Fld/,Directed,600,,,0.1431
+Minneapolis-St Paul Intl/Wold-,San Jose Intll,Directed,601,,,0.163
+Portland Intl,Minneapolis-St Paul Intl/Wold-,Directed,602,,,0.1498
+Minneapolis-St Paul Intl/Wold-,Metropolitan Oakland Intl,Directed,603,,,0.1629
+Minneapolis-St Paul Intl/Wold-,Ontario Intl,Directed,604,,,0.1617
+Minneapolis-St Paul Intl/Wold-,John Wayne Airport-Orange Coun,Directed,605,,,0.1651
+Minneapolis-St Paul Intl/Wold-,Sacramento Metropolitan,Directed,606,,,0.1562
+Minneapolis-St Paul Intl/Wold-,Southwest Florida Intl,Directed,607,,,0.1847
+Minneapolis-St Paul Intl/Wold-,Tucson Intl,Directed,608,,,0.1518
+Minneapolis-St Paul Intl/Wold-,Louisville Intl,Directed,609,,,0.0745
+Minneapolis-St Paul Intl/Wold-,Eppley Airfield,Directed,610,,,0.0368
+Minneapolis-St Paul Intl/Wold-,Rapid City Regional,Directed,611,,,0.0508
+Minneapolis-St Paul Intl/Wold-,Rochester Intll,Directed,612,,,0.01
+Grand Forks Afb,Minneapolis-St Paul Intl/Wold-,Directed,613,,,0.0364
+Chicago O'hare Intl,Mc Carran Intl,Directed,614,,,0.1498
+Mc Carran Intl,Los Angeles Intl,Directed,615,,,0.0263
+San Francisco Intl,Mc Carran Intl,Directed,616,,,0.0395
+Mc Carran Intl,Phoenix Sky Harbor Intl,Directed,617,,,0.0299
+Lambert-St Louis Intl,Mc Carran Intl,Directed,618,,,0.1288
+Minneapolis-St Paul Intl/Wold-,Mc Carran Intl,Directed,619,,,0.1399
+Mc Carran Intl,Orlando Intl,Directed,620,,,0.1873
+Pittsburgh Intll,Mc Carran Intl,Directed,621,,,0.1828
+Philadelphia Intl,Mc Carran Intl,Directed,622,,,0.2065
+Seattle-Tacoma Intl,Mc Carran Intl,Directed,623,,,0.1144
+Salt Lake City Intl,Mc Carran Intl,Directed,624,,,0.0477
+Mc Carran Intl,San Diego Intl-Lindbergh Fld,Directed,625,,,0.0336
+Mc Carran Intl,Tampa Intl,Directed,626,,,0.1834
+Mc Carran Intl,Memphis Intl,Directed,627,,,0.1286
+Chicago Midway,Mc Carran Intl,Directed,628,,,0.1499
+Kansas City Intl,Mc Carran Intl,Directed,629,,,0.1085
+San Jose Intll,Mc Carran Intl,Directed,630,,,0.0366
+Portland Intl,Mc Carran Intl,Directed,631,,,0.0984
+Metropolitan Oakland Intl,Mc Carran Intl,Directed,632,,,0.0392
+Mc Carran Intl,San Antonio Intl,Directed,633,,,0.1056
+Mc Carran Intl,Ontario Intl,Directed,634,,,0.023
+Mc Carran Intl,John Wayne Airport-Orange Coun,Directed,635,,,0.0268
+General Mitchell Intll,Mc Carran Intl,Directed,636,,,0.1535
+Sacramento Metropolitan,Mc Carran Intl,Directed,637,,,0.0412
+Reno/Tahoe Intll,Mc Carran Intl,Directed,638,,,0.0402
+Mc Carran Intl,Tucson Intl,Directed,639,,,0.0436
+Eppley Airfield,Mc Carran Intl,Directed,640,,,0.1101
+Mc Carran Intl,Palm Springs Regional,Directed,641,,,0.0227
+Chicago O'hare Intl,Orlando Intl,Directed,642,,,0.1337
+San Francisco Intl,Orlando Intl,Directed,643,,,0.2268
+Orlando Intl,Miami Intl,Directed,644,,,0.0257
+Phoenix Sky Harbor Intl,Orlando Intl,Directed,645,,,0.1635
+Lambert-St Louis Intl,Orlando Intl,Directed,646,,,0.1088
+Minneapolis-St Paul Intl/Wold-,Orlando Intl,Directed,647,,,0.1685
+Pittsburgh Intll,Orlando Intl,Directed,648,,,0.1153
+Philadelphia Intl,Orlando Intl,Directed,649,,,0.1136
+Salt Lake City Intl,Orlando Intl,Directed,650,,,0.1958
+Orlando Intl,Tampa Intl,Directed,651,,,0.0076
+Raleigh-Durham Intll,Orlando Intl,Directed,652,,,0.0722
+Memphis Intl,Orlando Intl,Directed,653,,,0.0771
+Orlando Intl,Luis Munoz Marin Intl,Directed,654,,,0.1232
+Chicago Midway,Orlando Intl,Directed,655,,,0.1317
+New Orleans Intl/Moisant Fld/,Orlando Intl,Directed,656,,,0.048
+Orlando Intl,Palm Beach Intl,Directed,657,,,0.0178
+General Mitchell Intll,Orlando Intl,Directed,658,,,0.1427
+Orlando Intl,Southwest Florida Intl,Directed,659,,,0.0182
+Syracuse Hancock Intl,Orlando Intl,Directed,660,,,0.1427
+Theodore Francis Green State,Orlando Intl,Directed,661,,,0.1366
+Orlando Intl,Sarasota/Bradenton Intl,Directed,662,,,0.0118
+Orlando Intl,Cyril E King,Directed,663,,,0.1274
+Savannah Intll,Orlando Intl,Directed,664,,,0.0353
+Tallahassee Regional,Orlando Intl,Directed,665,,,0.0244
+Pensacola Regional,Orlando Intl,Directed,666,,,0.0357
+Pittsburgh Intll,San Francisco Intl,Directed,667,,,0.2163
+Pittsburgh Intll,Lambert-St Louis Intl,Directed,668,,,0.0542
+Seattle-Tacoma Intl,Pittsburgh Intll,Directed,669,,,0.2244
+Pittsburgh Intll,San Diego Intl-Lindbergh Fld,Directed,670,,,0.2023
+Pittsburgh Intll,Tampa Intl,Directed,671,,,0.1202
+Pittsburgh Intll,Raleigh-Durham Intll,Directed,672,,,0.0447
+Pittsburgh Intll,San Antonio Intl,Directed,673,,,0.14
+Pittsburgh Intll,Sacramento Metropolitan,Directed,674,,,0.2114
+Pittsburgh Intll,Southwest Florida Intl,Directed,675,,,0.1335
+Syracuse Hancock Intl,Pittsburgh Intll,Directed,676,,,0.0326
+Greater Rochester Intl,Pittsburgh Intll,Directed,677,,,0.0283
+Theodore Francis Green State,Pittsburgh Intll,Directed,678,,,0.0463
+Pittsburgh Intll,Louisville Intl,Directed,679,,,0.0357
+Pittsburgh Intll,Sarasota/Bradenton Intl,Directed,680,,,0.1257
+Pittsburgh Intll,Richmond Intll,Directed,681,,,0.0321
+Pittsburgh Intll,Mc Ghee Tyson,Directed,682,,,0.0486
+Portland Intl Jetport,Pittsburgh Intll,Directed,683,,,0.0588
+Michiana Rgnl Transportation C,Pittsburgh Intll,Directed,684,,,0.0331
+Toledo Express,Pittsburgh Intll,Directed,685,,,0.021
+Pittsburgh Intll,Tri-Cities Regional Tn/Va,Directed,686,,,0.04
+Stewart Int'l,Pittsburgh Intll,Directed,687,,,0.0327
+Pittsburgh Intll,Mercer County,Directed,688,,,0.0277
+Chicago O'hare Intl,Houston Intercontinental,Directed,689,,,0.1207
+Los Angeles Intl,Houston Intercontinental,Directed,690,,,0.1233
+San Francisco Intl,Houston Intercontinental,Directed,691,,,0.1558
+Houston Intercontinental,Miami Intl,Directed,692,,,0.0865
+La Guardia,Houston Intercontinental,Directed,693,,,0.1503
+Phoenix Sky Harbor Intl,Houston Intercontinental,Directed,694,,,0.0911
+Lambert-St Louis Intl,Houston Intercontinental,Directed,695,,,0.0876
+Minneapolis-St Paul Intl/Wold-,Houston Intercontinental,Directed,696,,,0.1428
+Mc Carran Intl,Houston Intercontinental,Directed,697,,,0.1165
+Houston Intercontinental,Orlando Intl,Directed,698,,,0.073
+Pittsburgh Intll,Houston Intercontinental,Directed,699,,,0.1265
+Philadelphia Intl,Houston Intercontinental,Directed,700,,,0.1393
+Seattle-Tacoma Intl,Houston Intercontinental,Directed,701,,,0.216
+Salt Lake City Intl,Houston Intercontinental,Directed,702,,,0.1335
+San Diego Intl-Lindbergh Fld,Houston Intercontinental,Directed,703,,,0.1143
+Houston Intercontinental,Tampa Intl,Directed,704,,,0.0681
+Houston Intercontinental,William P Hobby,Directed,705,,,0.0032
+Kansas City Intl,Houston Intercontinental,Directed,706,,,0.0891
+New Orleans Intl/Moisant Fld/,Houston Intercontinental,Directed,707,,,0.0259
+San Jose Intll,Houston Intercontinental,Directed,708,,,0.1527
+Portland Intl,Houston Intercontinental,Directed,709,,,0.2037
+Indianapolis Intl,Houston Intercontinental,Directed,710,,,0.1038
+Houston Intercontinental,Palm Beach Intl,Directed,711,,,0.0838
+Houston Intercontinental,San Antonio Intl,Directed,712,,,0.0165
+Ontario Intl,Houston Intercontinental,Directed,713,,,0.1198
+John Wayne Airport-Orange Coun,Houston Intercontinental,Directed,714,,,0.12
+Sacramento Metropolitan,Houston Intercontinental,Directed,715,,,0.1575
+Houston Intercontinental,Southwest Florida Intl,Directed,716,,,0.0766
+Will Rogers World,Houston Intercontinental,Directed,717,,,0.053
+Tulsa Intl,Houston Intercontinental,Directed,718,,,0.0595
+Jacksonville Intl,Houston Intercontinental,Directed,719,,,0.0698
+Tucson Intl,Houston Intercontinental,Directed,720,,,0.082
+Eppley Airfield,Houston Intercontinental,Directed,721,,,0.1082
+Houston Intercontinental,Sarasota/Bradenton Intl,Directed,722,,,0.0696
+Pensacola Regional,Houston Intercontinental,Directed,723,,,0.0419
+Mobile Regional,Houston Intercontinental,Directed,724,,,0.0368
+Houston Intercontinental,Mc Allen Miller Intl,Directed,725,,,0.0393
+Lafayette Regional,Houston Intercontinental,Directed,726,,,0.0172
+Elko Muni-J.C. Harris Field,Houston Intercontinental,Directed,727,,,0.1469
+Philadelphia Intl,San Francisco Intl,Directed,728,,,0.241
+Newark Intl,Philadelphia Intl,Directed,729,,,0.0095
+Philadelphia Intl,Phoenix Sky Harbor Intl,Directed,730,,,0.1971
+Philadelphia Intl,Lambert-St Louis Intl,Directed,731,,,0.0777
+Pittsburgh Intll,Philadelphia Intl,Directed,732,,,0.0261
+Salt Lake City Intl,Philadelphia Intl,Directed,733,,,0.1873
+Philadelphia Intl,Tampa Intl,Directed,734,,,0.1196
+Philadelphia Intl,Raleigh-Durham Intll,Directed,735,,,0.0423
+Philadelphia Intl,Luis Munoz Marin Intl,Directed,736,,,0.2101
+Philadelphia Intl,Southwest Florida Intl,Directed,737,,,0.1317
+Syracuse Hancock Intl,Philadelphia Intl,Directed,738,,,0.0312
+Greater Rochester Intl,Philadelphia Intl,Directed,739,,,0.0334
+Theodore Francis Green State,Philadelphia Intl,Directed,740,,,0.0263
+Philadelphia Intl,Sarasota/Bradenton Intl,Directed,741,,,0.1249
+Philadelphia Intl,Richmond Intll,Directed,742,,,0.025
+Portland Intl Jetport,Philadelphia Intl,Directed,743,,,0.044
+Philadelphia Intl,Savannah Intll,Directed,744,,,0.08
+Seattle-Tacoma Intl,San Francisco Intl,Directed,745,,,0.0938
+Seattle-Tacoma Intl,Lambert-St Louis Intl,Directed,746,,,0.1826
+Seattle-Tacoma Intl,Salt Lake City Intl,Directed,747,,,0.0825
+Seattle-Tacoma Intl,San Jose Intll,Directed,748,,,0.0963
+Seattle-Tacoma Intl,John Wayne Airport-Orange Coun,Directed,749,,,0.1334
+Seattle-Tacoma Intl,Sacramento Metropolitan,Directed,750,,,0.0836
+Seattle-Tacoma Intl,Yakima Air Terminal,Directed,751,,,0.0122
+Seattle-Tacoma Intl,Roberts Field,Directed,752,,,0.031
+Seattle-Tacoma Intl,Friedman Memorial,Directed,753,,,0.0555
+Chicago O'hare Intl,Charlotte/Douglas Intl,Directed,754,,,0.0737
+Charlotte/Douglas Intl,Dallas/Fort Worth Intl,Directed,755,,,0.0849
+Charlotte/Douglas Intl,Los Angeles Intl,Directed,756,,,0.1911
+San Francisco Intl,Charlotte/Douglas Intl,Directed,757,,,0.2122
+John F Kennedy Intl,Charlotte/Douglas Intl,Directed,758,,,0.0634
+Stapleton Intl,Charlotte/Douglas Intl,Directed,759,,,0.1295
+Charlotte/Douglas Intl,Miami Intl,Directed,760,,,0.0901
+La Guardia,Charlotte/Douglas Intl,Directed,761,,,0.0642
+Newark Intl,Charlotte/Douglas Intl,Directed,762,,,0.0627
+Charlotte/Douglas Intl,Phoenix Sky Harbor Intl,Directed,763,,,0.1591
+Detroit Metropolitan Wayne Cou,Charlotte/Douglas Intl,Directed,764,,,0.068
+Lambert-St Louis Intl,Charlotte/Douglas Intl,Directed,765,,,0.0586
+Minneapolis-St Paul Intl/Wold-,Charlotte/Douglas Intl,Directed,766,,,0.1115
+Mc Carran Intl,Charlotte/Douglas Intl,Directed,767,,,0.1744
+Charlotte/Douglas Intl,Orlando Intl,Directed,768,,,0.0648
+Pittsburgh Intll,Charlotte/Douglas Intl,Directed,769,,,0.0505
+Charlotte/Douglas Intl,Houston Intercontinental,Directed,770,,,0.0887
+Philadelphia Intl,Charlotte/Douglas Intl,Directed,771,,,0.0532
+Seattle-Tacoma Intl,Charlotte/Douglas Intl,Directed,772,,,0.2408
+Washington National,Charlotte/Douglas Intl,Directed,773,,,0.0401
+Charlotte/Douglas Intl,San Diego Intl-Lindbergh Fld,Directed,774,,,0.186
+Charlotte/Douglas Intl,Tampa Intl,Directed,775,,,0.0697
+Washington Dulles Intl,Charlotte/Douglas Intl,Directed,776,,,0.0398
+Raleigh-Durham Intll,Charlotte/Douglas Intl,Directed,777,,,0.0127
+Cincinnati/Northern Kentucky I,Charlotte/Douglas Intl,Directed,778,,,0.0412
+Charlotte/Douglas Intl,Fort Lauderdale/Hollywood Intl,Directed,779,,,0.0875
+Charlotte/Douglas Intl,Memphis Intl,Directed,780,,,0.046
+Charlotte/Douglas Intl,Luis Munoz Marin Intl,Directed,781,,,0.1774
+Kansas City Intl,Charlotte/Douglas Intl,Directed,782,,,0.0802
+Charlotte/Douglas Intl,New Orleans Intl/Moisant Fld/,Directed,783,,,0.0688
+Indianapolis Intl,Charlotte/Douglas Intl,Directed,784,,,0.0509
+Charlotte/Douglas Intl,Palm Beach Intl,Directed,785,,,0.0816
+Charlotte/Douglas Intl,San Antonio Intl,Directed,786,,,0.1044
+General Mitchell Intll,Charlotte/Douglas Intl,Directed,787,,,0.0819
+James M Cox Dayton Intl,Charlotte/Douglas Intl,Directed,788,,,0.0478
+Port Columbus Intl,Charlotte/Douglas Intl,Directed,789,,,0.0468
+Charlotte/Douglas Intl,Southwest Florida Intl,Directed,790,,,0.083
+Charlotte/Douglas Intl,Jacksonville Intl,Directed,791,,,0.0453
+Norfolk Intl,Charlotte/Douglas Intl,Directed,792,,,0.029
+Syracuse Hancock Intl,Charlotte/Douglas Intl,Directed,793,,,0.0793
+Greater Rochester Intl,Charlotte/Douglas Intl,Directed,794,,,0.0773
+Theodore Francis Green State,Charlotte/Douglas Intl,Directed,795,,,0.0789
+Louisville Intl,Charlotte/Douglas Intl,Directed,796,,,0.0374
+Charlotte/Douglas Intl,Sarasota/Bradenton Intl,Directed,797,,,0.0751
+Charlotte/Douglas Intl,Adams Field,Directed,798,,,0.0576
+Richmond Intll,Charlotte/Douglas Intl,Directed,799,,,0.0287
+Piedmont Triad Intll,Charlotte/Douglas Intl,Directed,800,,,0.0099
+Harrisburg Intll,Charlotte/Douglas Intl,Directed,801,,,0.0521
+Charlotte/Douglas Intl,Greenville-Spartanburg,Directed,802,,,0.0071
+Mc Ghee Tyson,Charlotte/Douglas Intl,Directed,803,,,0.0165
+Long Island Mac Arthur,Charlotte/Douglas Intl,Directed,804,,,0.0666
+Charlotte/Douglas Intl,Savannah Intll,Directed,805,,,0.0295
+Charlotte/Douglas Intl,Daytona Beach Intl,Directed,806,,,0.0577
+Charlotte/Douglas Intl,Huntsville Intl-Carl T Jones F,Directed,807,,,0.0301
+Charlotte/Douglas Intl,Tallahassee Regional,Directed,808,,,0.0491
+Charlotte/Douglas Intl,Pensacola Regional,Directed,809,,,0.0553
+Charlotte/Douglas Intl,Mobile Regional,Directed,810,,,0.0569
+Charlotte/Douglas Intl,Melbourne Intll,Directed,811,,,0.068
+Roanoke Regional/Woodrum Field,Charlotte/Douglas Intl,Directed,812,,,0.0208
+Charlotte/Douglas Intl,Myrtle Beach Intl,Directed,813,,,0.0179
+Yeager,Charlotte/Douglas Intl,Directed,814,,,0.0304
+Charlotte/Douglas Intl,Gainesville Regional,Directed,815,,,0.0532
+Tri-Cities Regional Tn/Va,Charlotte/Douglas Intl,Directed,816,,,0.0141
+Charlotte/Douglas Intl,Dannelly Field,Directed,817,,,0.0393
+Charlotte/Douglas Intl,Fayetteville Regional/Grannis,Directed,818,,,0.0108
+Charlotte/Douglas Intl,New Hanover Intll,Directed,819,,,0.0179
+Charlotte/Douglas Intl,Albert J Ellis,Directed,820,,,0.0174
+Kinston Regional Jetport At St,Charlotte/Douglas Intl,Directed,821,,,0.017
+Chicago O'hare Intl,Washington National,Directed,822,,,0.0628
+Washington National,Dallas/Fort Worth Intl,Directed,823,,,0.1167
+John F Kennedy Intl,Washington National,Directed,824,,,0.0238
+Washington National,Miami Intl,Directed,825,,,0.1259
+La Guardia,Washington National,Directed,826,,,0.0244
+Newark Intl,Washington National,Directed,827,,,0.0229
+Detroit Metropolitan Wayne Cou,Washington National,Directed,828,,,0.0454
+Washington National,Lambert-St Louis Intl,Directed,829,,,0.0678
+Minneapolis-St Paul Intl/Wold-,Washington National,Directed,830,,,0.1005
+Washington National,Orlando Intl,Directed,831,,,0.1019
+Pittsburgh Intll,Washington National,Directed,832,,,0.0225
+Washington National,Houston Intercontinental,Directed,833,,,0.126
+Philadelphia Intl,Washington National,Directed,834,,,0.0134
+Washington National,Tampa Intl,Directed,835,,,0.1077
+Washington National,Raleigh-Durham Intll,Directed,836,,,0.0299
+Washington National,Fort Lauderdale/Hollywood Intl,Directed,837,,,0.1232
+Washington National,Memphis Intl,Directed,838,,,0.0753
+Chicago Midway,Washington National,Directed,839,,,0.0613
+Kansas City Intl,Washington National,Directed,840,,,0.0901
+Washington National,New Orleans Intl/Moisant Fld/,Directed,841,,,0.1082
+Indianapolis Intl,Washington National,Directed,842,,,0.0478
+Washington National,Palm Beach Intl,Directed,843,,,0.1173
+General Mitchell Intll,Washington National,Directed,844,,,0.0677
+Washington National,Southwest Florida Intl,Directed,845,,,0.1201
+Syracuse Hancock Intl,Washington National,Directed,846,,,0.0409
+Greater Rochester Intl,Washington National,Directed,847,,,0.0408
+Theodore Francis Green State,Washington National,Directed,848,,,0.0396
+Washington National,Louisville Intl,Directed,849,,,0.0448
+Washington National,Piedmont Triad Intll,Directed,850,,,0.0302
+Salt Lake City Intl,Lambert-St Louis Intl,Directed,851,,,0.1118
+Salt Lake City Intl,John Wayne Airport-Orange Coun,Directed,852,,,0.0742
+Salt Lake City Intl,Sacramento Metropolitan,Directed,853,,,0.0529
+Salt Lake City Intl,Tulsa Intl,Directed,854,,,0.0929
+Salt Lake City Intl,Tucson Intl,Directed,855,,,0.083
+Friedman Memorial,Salt Lake City Intl,Directed,856,,,0.0286
+Twin Falls-Sun Valley Regional,Salt Lake City Intl,Directed,857,,,0.0206
+San Francisco Intl,San Diego Intl-Lindbergh Fld,Directed,858,,,0.0536
+Lambert-St Louis Intl,San Diego Intl-Lindbergh Fld,Directed,859,,,0.1482
+Seattle-Tacoma Intl,San Diego Intl-Lindbergh Fld,Directed,860,,,0.1429
+Salt Lake City Intl,San Diego Intl-Lindbergh Fld,Directed,861,,,0.0813
+San Jose Intll,San Diego Intl-Lindbergh Fld,Directed,862,,,0.0504
+John Wayne Airport-Orange Coun,San Diego Intl-Lindbergh Fld,Directed,863,,,0.0097
+Sacramento Metropolitan,San Diego Intl-Lindbergh Fld,Directed,864,,,0.0613
+Palm Springs Regional,San Diego Intl-Lindbergh Fld,Directed,865,,,0.0109
+Chicago O'hare Intl,Baltimore-Washington Intl,Directed,866,,,0.0632
+Baltimore-Washington Intl,Dallas/Fort Worth Intl,Directed,867,,,0.1198
+Baltimore-Washington Intl,Los Angeles Intl,Directed,868,,,0.2183
+Baltimore-Washington Intl,San Francisco Intl,Directed,869,,,0.2332
+John F Kennedy Intl,Baltimore-Washington Intl,Directed,870,,,0.0203
+Stapleton Intl,Baltimore-Washington Intl,Directed,871,,,0.1438
+Baltimore-Washington Intl,Miami Intl,Directed,872,,,0.1291
+La Guardia,Baltimore-Washington Intl,Directed,873,,,0.0209
+Newark Intl,Baltimore-Washington Intl,Directed,874,,,0.0193
+Baltimore-Washington Intl,Phoenix Sky Harbor Intl,Directed,875,,,0.1882
+Detroit Metropolitan Wayne Cou,Baltimore-Washington Intl,Directed,876,,,0.0448
+Baltimore-Washington Intl,Lambert-St Louis Intl,Directed,877,,,0.0698
+Minneapolis-St Paul Intl/Wold-,Baltimore-Washington Intl,Directed,878,,,0.1004
+Baltimore-Washington Intl,Mc Carran Intl,Directed,879,,,0.1982
+Baltimore-Washington Intl,Orlando Intl,Directed,880,,,0.1053
+Pittsburgh Intll,Baltimore-Washington Intl,Directed,881,,,0.0221
+Baltimore-Washington Intl,Houston Intercontinental,Directed,882,,,0.1294
+Philadelphia Intl,Baltimore-Washington Intl,Directed,883,,,0.0099
+Baltimore-Washington Intl,Charlotte/Douglas Intl,Directed,884,,,0.0436
+Baltimore-Washington Intl,Tampa Intl,Directed,885,,,0.1111
+Baltimore-Washington Intl,Raleigh-Durham Intll,Directed,886,,,0.0333
+Baltimore-Washington Intl,Cincinnati/Northern Kentucky I,Directed,887,,,0.0407
+Baltimore-Washington Intl,Fort Lauderdale/Hollywood Intl,Directed,888,,,0.1264
+Cleveland-Hopkins Intl,Baltimore-Washington Intl,Directed,889,,,0.034
+Baltimore-Washington Intl,Luis Munoz Marin Intl,Directed,890,,,0.2054
+Kansas City Intl,Baltimore-Washington Intl,Directed,891,,,0.0919
+Baltimore-Washington Intl,New Orleans Intl/Moisant Fld/,Directed,892,,,0.1117
+Indianapolis Intl,Baltimore-Washington Intl,Directed,893,,,0.0493
+Baltimore-Washington Intl,Palm Beach Intl,Directed,894,,,0.1206
+James M Cox Dayton Intl,Baltimore-Washington Intl,Directed,895,,,0.039
+Port Columbus Intl,Baltimore-Washington Intl,Directed,896,,,0.0327
+Baltimore-Washington Intl,Southwest Florida Intl,Directed,897,,,0.1234
+Baltimore-Washington Intl,Jacksonville Intl,Directed,898,,,0.0867
+Baltimore-Washington Intl,Norfolk Intl,Directed,899,,,0.0219
+Syracuse Hancock Intl,Baltimore-Washington Intl,Directed,900,,,0.0377
+Greater Rochester Intl,Baltimore-Washington Intl,Directed,901,,,0.038
+Theodore Francis Green State,Baltimore-Washington Intl,Directed,902,,,0.0362
+Baltimore-Washington Intl,Sarasota/Bradenton Intl,Directed,903,,,0.1164
+Baltimore-Washington Intl,Richmond Intll,Directed,904,,,0.0162
+Baltimore-Washington Intl,Piedmont Triad Intll,Directed,905,,,0.0338
+Long Island Mac Arthur,Baltimore-Washington Intl,Directed,906,,,0.0239
+Baltimore-Washington Intl,Savannah Intll,Directed,907,,,0.0712
+Baltimore-Washington Intl,Roanoke Regional/Woodrum Field,Directed,908,,,0.0243
+Oneida County,Baltimore-Washington Intl,Directed,909,,,0.0386
+Chicago O'hare Intl,Washington Dulles Intl,Directed,910,,,0.0606
+Washington Dulles Intl,Los Angeles Intl,Directed,911,,,0.2139
+Washington Dulles Intl,San Francisco Intl,Directed,912,,,0.229
+John F Kennedy Intl,Washington Dulles Intl,Directed,913,,,0.0247
+Washington Dulles Intl,Miami Intl,Directed,914,,,0.1264
+La Guardia,Washington Dulles Intl,Directed,915,,,0.0253
+Washington Dulles Intl,Phoenix Sky Harbor Intl,Directed,916,,,0.1837
+Washington Dulles Intl,Lambert-St Louis Intl,Directed,917,,,0.0657
+Minneapolis-St Paul Intl/Wold-,Washington Dulles Intl,Directed,918,,,0.0983
+Washington Dulles Intl,Orlando Intl,Directed,919,,,0.1023
+Pittsburgh Intll,Washington Dulles Intl,Directed,920,,,0.0204
+Washington Dulles Intl,Houston Intercontinental,Directed,921,,,0.125
+Philadelphia Intl,Washington Dulles Intl,Directed,922,,,0.0144
+Seattle-Tacoma Intl,Washington Dulles Intl,Directed,923,,,0.2424
+Washington Dulles Intl,Washington National,Directed,924,,,0.0022
+Salt Lake City Intl,Washington Dulles Intl,Directed,925,,,0.1767
+Washington Dulles Intl,San Diego Intl-Lindbergh Fld,Directed,926,,,0.2108
+Washington Dulles Intl,Tampa Intl,Directed,927,,,0.1079
+Baltimore-Washington Intl,Washington Dulles Intl,Directed,928,,,0.0046
+Washington Dulles Intl,Luis Munoz Marin Intl,Directed,929,,,0.2044
+Washington Dulles Intl,New Orleans Intl/Moisant Fld/,Directed,930,,,0.1075
+Washington Dulles Intl,Norfolk Intl,Directed,931,,,0.0206
+Greater Rochester Intl,Washington Dulles Intl,Directed,932,,,0.0399
+Theodore Francis Green State,Washington Dulles Intl,Directed,933,,,0.0406
+Washington Dulles Intl,Richmond Intll,Directed,934,,,0.0137
+Harrisburg Intll,Washington Dulles Intl,Directed,935,,,0.0125
+Portland Intl Jetport,Washington Dulles Intl,Directed,936,,,0.0579
+Washington Dulles Intl,Savannah Intll,Directed,937,,,0.0678
+Manchester,Washington Dulles Intl,Directed,938,,,0.0489
+Washington Dulles Intl,Roanoke Regional/Woodrum Field,Directed,939,,,0.02
+University Park,Washington Dulles Intl,Directed,940,,,0.0183
+Lambert-St Louis Intl,Raleigh-Durham Intll,Directed,941,,,0.065
+Raleigh-Durham Intll,Tampa Intl,Directed,942,,,0.0779
+Raleigh-Durham Intll,Luis Munoz Marin Intl,Directed,943,,,0.1789
+Raleigh-Durham Intll,Southwest Florida Intl,Directed,944,,,0.0905
+Syracuse Hancock Intl,Raleigh-Durham Intll,Directed,945,,,0.0704
+Greater Rochester Intl,Raleigh-Durham Intll,Directed,946,,,0.0694
+Raleigh-Durham Intll,Sarasota/Bradenton Intl,Directed,947,,,0.0832
+Richmond Intll,Raleigh-Durham Intll,Directed,948,,,0.0173
+Raleigh-Durham Intll,Cyril E King,Directed,949,,,0.1818
+Raleigh-Durham Intll,Savannah Intll,Directed,950,,,0.0379
+Stewart Int'l,Raleigh-Durham Intll,Directed,951,,,0.0589
+Chicago O'hare Intl,Cincinnati/Northern Kentucky I,Directed,952,,,0.0325
+Cincinnati/Northern Kentucky I,Dallas/Fort Worth Intl,Directed,953,,,0.0862
+Cincinnati/Northern Kentucky I,Los Angeles Intl,Directed,954,,,0.1786
+Cincinnati/Northern Kentucky I,San Francisco Intl,Directed,955,,,0.1925
+John F Kennedy Intl,Cincinnati/Northern Kentucky I,Directed,956,,,0.0574
+Stapleton Intl,Cincinnati/Northern Kentucky I,Directed,957,,,0.1032
+Cincinnati/Northern Kentucky I,Miami Intl,Directed,958,,,0.1285
+La Guardia,Cincinnati/Northern Kentucky I,Directed,959,,,0.0574
+Newark Intl,Cincinnati/Northern Kentucky I,Directed,960,,,0.0558
+Cincinnati/Northern Kentucky I,Phoenix Sky Harbor Intl,Directed,961,,,0.1493
+Detroit Metropolitan Wayne Cou,Cincinnati/Northern Kentucky I,Directed,962,,,0.031
+Cincinnati/Northern Kentucky I,Lambert-St Louis Intl,Directed,963,,,0.0291
+Minneapolis-St Paul Intl/Wold-,Cincinnati/Northern Kentucky I,Directed,964,,,0.0708
+Cincinnati/Northern Kentucky I,Mc Carran Intl,Directed,965,,,0.1579
+Cincinnati/Northern Kentucky I,Orlando Intl,Directed,966,,,0.1028
+Pittsburgh Intll,Cincinnati/Northern Kentucky I,Directed,967,,,0.0265
+Philadelphia Intl,Cincinnati/Northern Kentucky I,Directed,968,,,0.0486
+Seattle-Tacoma Intl,Cincinnati/Northern Kentucky I,Directed,969,,,0.2078
+Cincinnati/Northern Kentucky I,Washington National,Directed,970,,,0.0388
+Salt Lake City Intl,Cincinnati/Northern Kentucky I,Directed,971,,,0.1401
+Cincinnati/Northern Kentucky I,San Diego Intl-Lindbergh Fld,Directed,972,,,0.1762
+Cincinnati/Northern Kentucky I,Tampa Intl,Directed,973,,,0.1064
+Cincinnati/Northern Kentucky I,Raleigh-Durham Intll,Directed,974,,,0.0426
+Cincinnati/Northern Kentucky I,Fort Lauderdale/Hollywood Intl,Directed,975,,,0.1261
+Cincinnati/Northern Kentucky I,Memphis Intl,Directed,976,,,0.0468
+Cincinnati/Northern Kentucky I,William P Hobby,Directed,977,,,0.1048
+Kansas City Intl,Cincinnati/Northern Kentucky I,Directed,978,,,0.0513
+Cincinnati/Northern Kentucky I,New Orleans Intl/Moisant Fld/,Directed,979,,,0.0911
+Portland Intl,Cincinnati/Northern Kentucky I,Directed,980,,,0.2031
+Indianapolis Intl,Cincinnati/Northern Kentucky I,Directed,981,,,0.0105
+Cincinnati/Northern Kentucky I,Palm Beach Intl,Directed,982,,,0.1204
+General Mitchell Intll,Cincinnati/Northern Kentucky I,Directed,983,,,0.0408
+Cincinnati/Northern Kentucky I,Southwest Florida Intl,Directed,984,,,0.1204
+Cincinnati/Northern Kentucky I,Jacksonville Intl,Directed,985,,,0.0831
+Cincinnati/Northern Kentucky I,Norfolk Intl,Directed,986,,,0.0478
+Syracuse Hancock Intl,Cincinnati/Northern Kentucky I,Directed,987,,,0.0584
+Greater Rochester Intl,Cincinnati/Northern Kentucky I,Directed,988,,,0.0527
+Cincinnati/Northern Kentucky I,Louisville Intl,Directed,989,,,0.01
+Cincinnati/Northern Kentucky I,Sarasota/Bradenton Intl,Directed,990,,,0.1118
+Cincinnati/Northern Kentucky I,Adams Field,Directed,991,,,0.0564
+Cincinnati/Northern Kentucky I,Richmond Intll,Directed,992,,,0.0402
+Cincinnati/Northern Kentucky I,Piedmont Triad Intll,Directed,993,,,0.0371
+Kent County Intl,Cincinnati/Northern Kentucky I,Directed,994,,,0.037
+Cincinnati/Northern Kentucky I,Mc Ghee Tyson,Directed,995,,,0.0311
+Portland Intl Jetport,Cincinnati/Northern Kentucky I,Directed,996,,,0.0853
+Cincinnati/Northern Kentucky I,Jackson Intll,Directed,997,,,0.0701
+Cincinnati/Northern Kentucky I,Blue Grass,Directed,998,,,0.0096
+Michiana Rgnl Transportation C,Cincinnati/Northern Kentucky I,Directed,999,,,0.0268
+Fort Wayne Intll,Cincinnati/Northern Kentucky I,Directed,1000,,,0.0187
+Chicago O'hare Intl,Fort Lauderdale/Hollywood Intl,Directed,1001,,,0.157
+John F Kennedy Intl,Fort Lauderdale/Hollywood Intl,Directed,1002,,,0.1429
+Fort Lauderdale/Hollywood Intl,Miami Intl,Directed,1003,,,0.0027
+La Guardia,Fort Lauderdale/Hollywood Intl,Directed,1004,,,0.1441
+Lambert-St Louis Intl,Fort Lauderdale/Hollywood Intl,Directed,1005,,,0.1319
+Minneapolis-St Paul Intl/Wold-,Fort Lauderdale/Hollywood Intl,Directed,1006,,,0.1917
+Orlando Intl,Fort Lauderdale/Hollywood Intl,Directed,1007,,,0.0234
+Pittsburgh Intll,Fort Lauderdale/Hollywood Intl,Directed,1008,,,0.1378
+Houston Intercontinental,Fort Lauderdale/Hollywood Intl,Directed,1009,,,0.086
+Philadelphia Intl,Fort Lauderdale/Hollywood Intl,Directed,1010,,,0.1342
+Tampa Intl,Fort Lauderdale/Hollywood Intl,Directed,1011,,,0.0219
+Washington Dulles Intl,Fort Lauderdale/Hollywood Intl,Directed,1012,,,0.1238
+Raleigh-Durham Intll,Fort Lauderdale/Hollywood Intl,Directed,1013,,,0.094
+Memphis Intl,Fort Lauderdale/Hollywood Intl,Directed,1014,,,0.0994
+Chicago Midway,Fort Lauderdale/Hollywood Intl,Directed,1015,,,0.1551
+New Orleans Intl/Moisant Fld/,Fort Lauderdale/Hollywood Intl,Directed,1016,,,0.0637
+Indianapolis Intl,Fort Lauderdale/Hollywood Intl,Directed,1017,,,0.1341
+Palm Beach Intl,Fort Lauderdale/Hollywood Intl,Directed,1018,,,0.0059
+General Mitchell Intll,Fort Lauderdale/Hollywood Intl,Directed,1019,,,0.1661
+Southwest Florida Intl,Fort Lauderdale/Hollywood Intl,Directed,1020,,,0.0094
+Long Island Mac Arthur,Fort Lauderdale/Hollywood Intl,Directed,1021,,,0.1452
+St Petersburg/Clearwater Intl,Fort Lauderdale/Hollywood Intl,Directed,1022,,,0.0218
+Chicago O'hare Intl,Memphis Intl,Directed,1023,,,0.067
+San Francisco Intl,Memphis Intl,Directed,1024,,,0.1667
+Memphis Intl,Miami Intl,Directed,1025,,,0.1013
+Memphis Intl,Phoenix Sky Harbor Intl,Directed,1026,,,0.1133
+Lambert-St Louis Intl,Memphis Intl,Directed,1027,,,0.0355
+Minneapolis-St Paul Intl/Wold-,Memphis Intl,Directed,1028,,,0.0954
+Pittsburgh Intll,Memphis Intl,Directed,1029,,,0.0719
+Philadelphia Intl,Memphis Intl,Directed,1030,,,0.0881
+Seattle-Tacoma Intl,Memphis Intl,Directed,1031,,,0.2028
+Memphis Intl,Tampa Intl,Directed,1032,,,0.0775
+Memphis Intl,New Orleans Intl/Moisant Fld/,Directed,1033,,,0.0483
+Memphis Intl,San Antonio Intl,Directed,1034,,,0.0681
+General Mitchell Intll,Memphis Intl,Directed,1035,,,0.0762
+Memphis Intl,Southwest Florida Intl,Directed,1036,,,0.0915
+Will Rogers World,Memphis Intl,Directed,1037,,,0.0389
+Tulsa Intl,Memphis Intl,Directed,1038,,,0.032
+Louisville Intl,Memphis Intl,Directed,1039,,,0.0369
+Eppley Airfield,Memphis Intl,Directed,1040,,,0.0669
+Mc Ghee Tyson,Memphis Intl,Directed,1041,,,0.0314
+Memphis Intl,Eglin Afb,Directed,1042,,,0.047
+Chicago O'hare Intl,Cleveland-Hopkins Intl,Directed,1043,,,0.0313
+Cleveland-Hopkins Intl,Dallas/Fort Worth Intl,Directed,1044,,,0.1123
+Cleveland-Hopkins Intl,Los Angeles Intl,Directed,1045,,,0.1993
+Cleveland-Hopkins Intl,San Francisco Intl,Directed,1046,,,0.2095
+Cleveland-Hopkins Intl,John F Kennedy Intl,Directed,1047,,,0.0418
+Cleveland-Hopkins Intl,Stapleton Intl,Directed,1048,,,0.1183
+Cleveland-Hopkins Intl,Miami Intl,Directed,1049,,,0.1494
+Cleveland-Hopkins Intl,La Guardia,Directed,1050,,,0.0412
+Cleveland-Hopkins Intl,Newark Intl,Directed,1051,,,0.0398
+Cleveland-Hopkins Intl,Phoenix Sky Harbor Intl,Directed,1052,,,0.1715
+Detroit Metropolitan Wayne Cou,Cleveland-Hopkins Intl,Directed,1053,,,0.0108
+Cleveland-Hopkins Intl,Lambert-St Louis Intl,Directed,1054,,,0.0502
+Minneapolis-St Paul Intl/Wold-,Cleveland-Hopkins Intl,Directed,1055,,,0.0667
+Cleveland-Hopkins Intl,Mc Carran Intl,Directed,1056,,,0.1771
+Cleveland-Hopkins Intl,Orlando Intl,Directed,1057,,,0.124
+Cleveland-Hopkins Intl,Pittsburgh Intll,Directed,1058,,,0.0121
+Cleveland-Hopkins Intl,Houston Intercontinental,Directed,1059,,,0.129
+Cleveland-Hopkins Intl,Philadelphia Intl,Directed,1060,,,0.0368
+Seattle-Tacoma Intl,Cleveland-Hopkins Intl,Directed,1061,,,0.2139
+Cleveland-Hopkins Intl,Charlotte/Douglas Intl,Directed,1062,,,0.0594
+Cleveland-Hopkins Intl,Washington National,Directed,1063,,,0.0346
+Cleveland-Hopkins Intl,Tampa Intl,Directed,1064,,,0.1284
+Cleveland-Hopkins Intl,Washington Dulles Intl,Directed,1065,,,0.0325
+Cleveland-Hopkins Intl,Raleigh-Durham Intll,Directed,1066,,,0.0552
+Cleveland-Hopkins Intl,Cincinnati/Northern Kentucky I,Directed,1067,,,0.0267
+Cleveland-Hopkins Intl,Fort Lauderdale/Hollywood Intl,Directed,1068,,,0.1469
+Chicago Midway,Cleveland-Hopkins Intl,Directed,1069,,,0.0302
+Cleveland-Hopkins Intl,Kansas City Intl,Directed,1070,,,0.0685
+Cleveland-Hopkins Intl,New Orleans Intl/Moisant Fld/,Directed,1071,,,0.1172
+Cleveland-Hopkins Intl,Indianapolis Intl,Directed,1072,,,0.0278
+Cleveland-Hopkins Intl,Palm Beach Intl,Directed,1073,,,0.141
+General Mitchell Intll,Cleveland-Hopkins Intl,Directed,1074,,,0.0341
+Cleveland-Hopkins Intl,Southwest Florida Intl,Directed,1075,,,0.1421
+Theodore Francis Green State,Cleveland-Hopkins Intl,Directed,1076,,,0.0532
+Cleveland-Hopkins Intl,Louisville Intl,Directed,1077,,,0.0367
+Cleveland-Hopkins Intl,Sarasota/Bradenton Intl,Directed,1078,,,0.1339
+Cleveland-Hopkins Intl,Yampa Valley,Directed,1079,,,0.1295
+Lambert-St Louis Intl,Luis Munoz Marin Intl,Directed,1080,,,0.2303
+Tampa Intl,Luis Munoz Marin Intl,Directed,1081,,,0.124
+Luis Munoz Marin Intl,Cyril E King,Directed,1082,,,0.0054
+Luis Munoz Marin Intl,Alexander Hamilton,Directed,1083,,,0.0094
+Chicago O'hare Intl,William P Hobby,Directed,1084,,,0.1237
+John F Kennedy Intl,William P Hobby,Directed,1085,,,0.1517
+William P Hobby,Miami Intl,Directed,1086,,,0.0848
+Phoenix Sky Harbor Intl,William P Hobby,Directed,1087,,,0.0926
+Lambert-St Louis Intl,William P Hobby,Directed,1088,,,0.0905
+Minneapolis-St Paul Intl/Wold-,William P Hobby,Directed,1089,,,0.146
+Memphis Intl,William P Hobby,Directed,1090,,,0.0582
+Chicago Midway,William P Hobby,Directed,1091,,,0.1222
+New Orleans Intl/Moisant Fld/,William P Hobby,Directed,1092,,,0.0258
+William P Hobby,San Antonio Intl,Directed,1093,,,0.0162
+Will Rogers World,William P Hobby,Directed,1094,,,0.0562
+Tulsa Intl,William P Hobby,Directed,1095,,,0.0627
+Midland Intll,William P Hobby,Directed,1096,,,0.0415
+William P Hobby,Rio Grande Valley Intl,Directed,1097,,,0.0349
+Chicago Midway,Lambert-St Louis Intl,Directed,1098,,,0.0319
+Minneapolis-St Paul Intl/Wold-,Chicago Midway,Directed,1099,,,0.0406
+Chicago Midway,Pittsburgh Intll,Directed,1100,,,0.0403
+Seattle-Tacoma Intl,Chicago Midway,Directed,1101,,,0.1841
+Chicago Midway,Tampa Intl,Directed,1102,,,0.1347
+Chicago Midway,Southwest Florida Intl,Directed,1103,,,0.1489
+Chicago Midway,Savannah Intll,Directed,1104,,,0.0981
+Chicago Midway,Capital,Directed,1105,,,0.021
+Chicago Midway,St Petersburg/Clearwater Intl,Directed,1106,,,0.1351
+Chicago O'hare Intl,Nashville Intll,Directed,1107,,,0.0562
+Nashville Intll,Dallas/Fort Worth Intl,Directed,1108,,,0.0611
+Nashville Intll,Los Angeles Intl,Directed,1109,,,0.1628
+San Francisco Intl,Nashville Intll,Directed,1110,,,0.1823
+Stapleton Intl,Nashville Intll,Directed,1111,,,0.0991
+Nashville Intll,Miami Intl,Directed,1112,,,0.1039
+La Guardia,Nashville Intll,Directed,1113,,,0.079
+General Edward Lawrence Logan,Nashville Intll,Directed,1114,,,0.0997
+Newark Intl,Nashville Intll,Directed,1115,,,0.0773
+Nashville Intll,Phoenix Sky Harbor Intl,Directed,1116,,,0.1315
+Detroit Metropolitan Wayne Cou,Nashville Intll,Directed,1117,,,0.0606
+Lambert-St Louis Intl,Nashville Intll,Directed,1118,,,0.0313
+Minneapolis-St Paul Intl/Wold-,Nashville Intll,Directed,1119,,,0.09
+Nashville Intll,Mc Carran Intl,Directed,1120,,,0.145
+Nashville Intll,Orlando Intl,Directed,1121,,,0.0784
+Pittsburgh Intll,Nashville Intll,Directed,1122,,,0.0531
+Nashville Intll,Houston Intercontinental,Directed,1123,,,0.0734
+Philadelphia Intl,Nashville Intll,Directed,1124,,,0.0684
+Nashville Intll,Charlotte/Douglas Intl,Directed,1125,,,0.0305
+Washington National,Nashville Intll,Directed,1126,,,0.0556
+Nashville Intll,San Diego Intl-Lindbergh Fld,Directed,1127,,,0.1586
+Nashville Intll,Tampa Intl,Directed,1128,,,0.0807
+Baltimore-Washington Intl,Nashville Intll,Directed,1129,,,0.0587
+Nashville Intll,Raleigh-Durham Intll,Directed,1130,,,0.0403
+Cincinnati/Northern Kentucky I,Nashville Intll,Directed,1131,,,0.0297
+Nashville Intll,Fort Lauderdale/Hollywood Intl,Directed,1132,,,0.1017
+Nashville Intll,Memphis Intl,Directed,1133,,,0.0197
+Cleveland-Hopkins Intl,Nashville Intll,Directed,1134,,,0.0562
+Nashville Intll,Luis Munoz Marin Intl,Directed,1135,,,0.1991
+Nashville Intll,William P Hobby,Directed,1136,,,0.0758
+Chicago Midway,Nashville Intll,Directed,1137,,,0.0544
+Kansas City Intl,Nashville Intll,Directed,1138,,,0.0509
+Nashville Intll,New Orleans Intl/Moisant Fld/,Directed,1139,,,0.0614
+Indianapolis Intl,Nashville Intll,Directed,1140,,,0.0344
+Nashville Intll,Palm Beach Intl,Directed,1141,,,0.0963
+Nashville Intll,San Antonio Intl,Directed,1142,,,0.087
+General Mitchell Intll,Nashville Intll,Directed,1143,,,0.0655
+Port Columbus Intl,Nashville Intll,Directed,1144,,,0.0417
+Nashville Intll,Southwest Florida Intl,Directed,1145,,,0.095
+Nashville Intll,Jacksonville Intl,Directed,1146,,,0.0595
+Norfolk Intl,Nashville Intll,Directed,1147,,,0.0539
+Louisville Intl,Nashville Intll,Directed,1148,,,0.0202
+Nashville Intll,Adams Field,Directed,1149,,,0.0312
+Richmond Intll,Nashville Intll,Directed,1150,,,0.0495
+Nashville Intll,Piedmont Triad Intll,Directed,1151,,,0.0344
+Nashville Intll,Mc Ghee Tyson,Directed,1152,,,0.014
+Nashville Intll,Huntsville Intl-Carl T Jones F,Directed,1153,,,0.0142
+Nashville Intll,"Baton Rouge Metropolitan, Ryan",Directed,1154,,,0.058
+Nashville Intll,Pensacola Regional,Directed,1155,,,0.0541
+Nashville Intll,Jackson Intll,Directed,1156,,,0.0404
+Blue Grass,Nashville Intll,Directed,1157,,,0.0211
+Michiana Rgnl Transportation C,Nashville Intll,Directed,1158,,,0.0533
+Nashville Intll,Mobile Regional,Directed,1159,,,0.0525
+Chicago O'hare Intl,Kansas City Intl,Directed,1160,,,0.0431
+Kansas City Intl,San Francisco Intl,Directed,1161,,,0.1417
+Kansas City Intl,Phoenix Sky Harbor Intl,Directed,1162,,,0.1044
+Kansas City Intl,Lambert-St Louis Intl,Directed,1163,,,0.0228
+Minneapolis-St Paul Intl/Wold-,Kansas City Intl,Directed,1164,,,0.054
+Kansas City Intl,Orlando Intl,Directed,1165,,,0.1243
+Pittsburgh Intll,Kansas City Intl,Directed,1166,,,0.0747
+Philadelphia Intl,Kansas City Intl,Directed,1167,,,0.0994
+Seattle-Tacoma Intl,Kansas City Intl,Directed,1168,,,0.1606
+Salt Lake City Intl,Kansas City Intl,Directed,1169,,,0.089
+Kansas City Intl,San Diego Intl-Lindbergh Fld,Directed,1170,,,0.1305
+Kansas City Intl,Memphis Intl,Directed,1171,,,0.0472
+Chicago Midway,Kansas City Intl,Directed,1172,,,0.0427
+General Mitchell Intll,Kansas City Intl,Directed,1173,,,0.0492
+Kansas City Intl,Will Rogers World,Directed,1174,,,0.0401
+Kansas City Intl,Tulsa Intl,Directed,1175,,,0.0302
+Eppley Airfield,Kansas City Intl,Directed,1176,,,0.0201
+Elko Muni-J.C. Harris Field,Kansas City Intl,Directed,1177,,,0.1083
+Chicago O'hare Intl,New Orleans Intl/Moisant Fld/,Directed,1178,,,0.1151
+San Francisco Intl,New Orleans Intl/Moisant Fld/,Directed,1179,,,0.179
+Lambert-St Louis Intl,New Orleans Intl/Moisant Fld/,Directed,1180,,,0.0837
+Pittsburgh Intll,New Orleans Intl/Moisant Fld/,Directed,1181,,,0.1126
+Philadelphia Intl,New Orleans Intl/Moisant Fld/,Directed,1182,,,0.1215
+Salt Lake City Intl,New Orleans Intl/Moisant Fld/,Directed,1183,,,0.1512
+New Orleans Intl/Moisant Fld/,Tampa Intl,Directed,1184,,,0.0439
+New Orleans Intl/Moisant Fld/,San Antonio Intl,Directed,1185,,,0.042
+Lambert-St Louis Intl,San Jose Intll,Directed,1186,,,0.1613
+Salt Lake City Intl,San Jose Intll,Directed,1187,,,0.0603
+San Jose Intll,John Wayne Airport-Orange Coun,Directed,1188,,,0.0408
+Sacramento Metropolitan,San Jose Intll,Directed,1189,,,0.0129
+San Jose Intll,Long Beach /Daugherty Field/,Directed,1190,,,0.039
+Portland Intl,San Francisco Intl,Directed,1191,,,0.0761
+Portland Intl,Phoenix Sky Harbor Intl,Directed,1192,,,0.128
+Seattle-Tacoma Intl,Portland Intl,Directed,1193,,,0.0178
+Portland Intl,Salt Lake City Intl,Directed,1194,,,0.0709
+Portland Intl,San Diego Intl-Lindbergh Fld,Directed,1195,,,0.1259
+Portland Intl,San Jose Intll,Directed,1196,,,0.0787
+Portland Intl,John Wayne Airport-Orange Coun,Directed,1197,,,0.1163
+Portland Intl,Sacramento Metropolitan,Directed,1198,,,0.066
+Portland Intl,Reno/Tahoe Intll,Directed,1199,,,0.06
+Tri-Cities,Portland Intl,Directed,1200,,,0.0189
+Yakima Air Terminal,Portland Intl,Directed,1201,,,0.0141
+Portland Intl,Roberts Field,Directed,1202,,,0.0147
+Pullman/Moscow Regional,Portland Intl,Directed,1203,,,0.0301
+Portland Intl,Mcnary Fld,Directed,1204,,,0.0068
+Dallas Love Field,Houston Intercontinental,Directed,1205,,,0.0285
+Dallas Love Field,William P Hobby,Directed,1206,,,0.0316
+Dallas Love Field,New Orleans Intl/Moisant Fld/,Directed,1207,,,0.0433
+Dallas Love Field,San Antonio Intl,Directed,1208,,,0.0327
+Dallas Love Field,El Paso Intl,Directed,1209,,,0.0495
+Will Rogers World,Dallas Love Field,Directed,1210,,,0.0246
+Tulsa Intl,Dallas Love Field,Directed,1211,,,0.0324
+Adams Field,Dallas Love Field,Directed,1212,,,0.0297
+Lubbock Intl,Dallas Love Field,Directed,1213,,,0.0265
+Dallas Love Field,Midland Intll,Directed,1214,,,0.0286
+Chicago O'hare Intl,Indianapolis Intl,Directed,1215,,,0.0231
+Indianapolis Intl,Los Angeles Intl,Directed,1216,,,0.1726
+Indianapolis Intl,San Francisco Intl,Directed,1217,,,0.1848
+John F Kennedy Intl,Indianapolis Intl,Directed,1218,,,0.0643
+Indianapolis Intl,Miami Intl,Directed,1219,,,0.1365
+La Guardia,Indianapolis Intl,Directed,1220,,,0.0641
+Indianapolis Intl,Phoenix Sky Harbor Intl,Directed,1221,,,0.1441
+Indianapolis Intl,Lambert-St Louis Intl,Directed,1222,,,0.0227
+Minneapolis-St Paul Intl/Wold-,Indianapolis Intl,Directed,1223,,,0.0607
+Indianapolis Intl,Mc Carran Intl,Directed,1224,,,0.151
+Indianapolis Intl,Orlando Intl,Directed,1225,,,0.1108
+Pittsburgh Intll,Indianapolis Intl,Directed,1226,,,0.0318
+Philadelphia Intl,Indianapolis Intl,Directed,1227,,,0.0563
+Indianapolis Intl,Tampa Intl,Directed,1228,,,0.1138
+Indianapolis Intl,Memphis Intl,Directed,1229,,,0.0484
+Chicago Midway,Indianapolis Intl,Directed,1230,,,0.0211
+Indianapolis Intl,Kansas City Intl,Directed,1231,,,0.0431
+Indianapolis Intl,New Orleans Intl/Moisant Fld/,Directed,1232,,,0.0951
+Indianapolis Intl,Southwest Florida Intl,Directed,1233,,,0.128
+Indianapolis Intl,Louisville Intl,Directed,1234,,,0.015
+Indianapolis Intl,St Petersburg/Clearwater Intl,Directed,1235,,,0.1143
+Lambert-St Louis Intl,Palm Beach Intl,Directed,1236,,,0.1266
+Pittsburgh Intll,Palm Beach Intl,Directed,1237,,,0.1319
+Philadelphia Intl,Palm Beach Intl,Directed,1238,,,0.1284
+Tampa Intl,Palm Beach Intl,Directed,1239,,,0.0175
+Raleigh-Durham Intll,Palm Beach Intl,Directed,1240,,,0.088
+Palm Beach Intl,Southwest Florida Intl,Directed,1241,,,0.0086
+Chicago O'hare Intl,Metropolitan Oakland Intl,Directed,1242,,,0.1795
+Metropolitan Oakland Intl,Phoenix Sky Harbor Intl,Directed,1243,,,0.0662
+Seattle-Tacoma Intl,Metropolitan Oakland Intl,Directed,1244,,,0.0929
+Salt Lake City Intl,Metropolitan Oakland Intl,Directed,1245,,,0.0599
+Metropolitan Oakland Intl,San Diego Intl-Lindbergh Fld,Directed,1246,,,0.0541
+Portland Intl,Metropolitan Oakland Intl,Directed,1247,,,0.0752
+Metropolitan Oakland Intl,Ontario Intl,Directed,1248,,,0.0422
+Metropolitan Oakland Intl,John Wayne Airport-Orange Coun,Directed,1249,,,0.0445
+Sacramento Metropolitan,Metropolitan Oakland Intl,Directed,1250,,,0.0099
+Reno/Tahoe Intll,Metropolitan Oakland Intl,Directed,1251,,,0.0211
+Metropolitan Oakland Intl,Palm Springs Regional,Directed,1252,,,0.0472
+Lambert-St Louis Intl,San Antonio Intl,Directed,1253,,,0.0973
+Salt Lake City Intl,San Antonio Intl,Directed,1254,,,0.1276
+Chicago O'hare Intl,Ontario Intl,Directed,1255,,,0.1691
+San Francisco Intl,Ontario Intl,Directed,1256,,,0.0419
+Ontario Intl,Phoenix Sky Harbor Intl,Directed,1257,,,0.029
+Lambert-St Louis Intl,Ontario Intl,Directed,1258,,,0.1458
+Seattle-Tacoma Intl,Ontario Intl,Directed,1259,,,0.1301
+Salt Lake City Intl,Ontario Intl,Directed,1260,,,0.0704
+Ontario Intl,San Diego Intl-Lindbergh Fld,Directed,1261,,,0.0128
+San Jose Intll,Ontario Intl,Directed,1262,,,0.0386
+Portland Intl,Ontario Intl,Directed,1263,,,0.1131
+Ontario Intl,John Wayne Airport-Orange Coun,Directed,1264,,,0.0039
+Sacramento Metropolitan,Ontario Intl,Directed,1265,,,0.0489
+Reno/Tahoe Intll,Ontario Intl,Directed,1266,,,0.0532
+Ontario Intl,Palm Springs Regional,Directed,1267,,,0.0059
+Chicago O'hare Intl,Albuquerque Intl,Directed,1268,,,0.1161
+Albuquerque Intl,Dallas/Fort Worth Intl,Directed,1269,,,0.0529
+Albuquerque Intl,The William B Hartsfield Atlan,Directed,1270,,,0.1138
+Albuquerque Intl,Los Angeles Intl,Directed,1271,,,0.0609
+San Francisco Intl,Albuquerque Intl,Directed,1272,,,0.0839
+Stapleton Intl,Albuquerque Intl,Directed,1273,,,0.0461
+Albuquerque Intl,Phoenix Sky Harbor Intl,Directed,1274,,,0.0315
+Lambert-St Louis Intl,Albuquerque Intl,Directed,1275,,,0.0901
+Minneapolis-St Paul Intl/Wold-,Albuquerque Intl,Directed,1276,,,0.1163
+Mc Carran Intl,Albuquerque Intl,Directed,1277,,,0.0446
+Pittsburgh Intll,Albuquerque Intl,Directed,1278,,,0.1441
+Albuquerque Intl,Houston Intercontinental,Directed,1279,,,0.075
+Salt Lake City Intl,Albuquerque Intl,Directed,1280,,,0.0613
+Albuquerque Intl,San Diego Intl-Lindbergh Fld,Directed,1281,,,0.0581
+Cincinnati/Northern Kentucky I,Albuquerque Intl,Directed,1282,,,0.1182
+Albuquerque Intl,William P Hobby,Directed,1283,,,0.0773
+Albuquerque Intl,Dallas Love Field,Directed,1284,,,0.0539
+Albuquerque Intl,El Paso Intl,Directed,1285,,,0.0309
+Albuquerque Intl,Tucson Intl,Directed,1286,,,0.0355
+Albuquerque Intl,Lubbock Intl,Directed,1287,,,0.0277
+Albuquerque Intl,Midland Intll,Directed,1288,,,0.0372
+Amarillo Intl,Albuquerque Intl,Directed,1289,,,0.0251
+Elko Muni-J.C. Harris Field,Albuquerque Intl,Directed,1290,,,0.0724
+Chicago O'hare Intl,Bradley Intl,Directed,1291,,,0.0775
+Bradley Intl,Dallas/Fort Worth Intl,Directed,1292,,,0.1511
+Bradley Intl,John F Kennedy Intl,Directed,1293,,,0.0136
+Bradley Intl,Miami Intl,Directed,1294,,,0.159
+General Edward Lawrence Logan,Bradley Intl,Directed,1295,,,0.0095
+Bradley Intl,Newark Intl,Directed,1296,,,0.0141
+Detroit Metropolitan Wayne Cou,Bradley Intl,Directed,1297,,,0.0544
+Bradley Intl,Lambert-St Louis Intl,Directed,1298,,,0.095
+Minneapolis-St Paul Intl/Wold-,Bradley Intl,Directed,1299,,,0.1082
+Bradley Intl,Orlando Intl,Directed,1300,,,0.1363
+Bradley Intl,Pittsburgh Intll,Directed,1301,,,0.0408
+Bradley Intl,Philadelphia Intl,Directed,1302,,,0.0236
+Bradley Intl,Charlotte/Douglas Intl,Directed,1303,,,0.0768
+Bradley Intl,Washington National,Directed,1304,,,0.0368
+Bradley Intl,Tampa Intl,Directed,1305,,,0.1425
+Bradley Intl,Baltimore-Washington Intl,Directed,1306,,,0.0333
+Bradley Intl,Washington Dulles Intl,Directed,1307,,,0.0375
+Bradley Intl,Raleigh-Durham Intll,Directed,1308,,,0.0657
+Bradley Intl,Cincinnati/Northern Kentucky I,Directed,1309,,,0.067
+Bradley Intl,Fort Lauderdale/Hollywood Intl,Directed,1310,,,0.1563
+Bradley Intl,Cleveland-Hopkins Intl,Directed,1311,,,0.047
+Bradley Intl,Luis Munoz Marin Intl,Directed,1312,,,0.2271
+Bradley Intl,Nashville Intll,Directed,1313,,,0.0904
+Bradley Intl,Palm Beach Intl,Directed,1314,,,0.1505
+Greater Buffalo Intl,Bradley Intl,Directed,1315,,,0.0323
+Syracuse Hancock Intl,Bradley Intl,Directed,1316,,,0.0207
+Greater Rochester Intl,Bradley Intl,Directed,1317,,,0.0278
+Lambert-St Louis Intl,John Wayne Airport-Orange Coun,Directed,1318,,,0.1483
+Burbank-Glendale-Pasadena,John Wayne Airport-Orange Coun,Directed,1319,,,0.0056
+San Francisco Intl,Kahului,Directed,1320,,,0.2359
+Seattle-Tacoma Intl,Kahului,Directed,1321,,,0.3074
+Molokai,Kahului,Directed,1322,,,0.0042
+General Mitchell Intll,Chicago O'hare Intl,Directed,1323,,,0.0093
+General Mitchell Intll,San Francisco Intl,Directed,1324,,,0.1827
+General Mitchell Intll,Phoenix Sky Harbor Intl,Directed,1325,,,0.1528
+General Mitchell Intll,Lambert-St Louis Intl,Directed,1326,,,0.042
+Minneapolis-St Paul Intl/Wold-,General Mitchell Intll,Directed,1327,,,0.0327
+General Mitchell Intll,Pittsburgh Intll,Directed,1328,,,0.0456
+General Mitchell Intll,Philadelphia Intl,Directed,1329,,,0.0709
+Seattle-Tacoma Intl,General Mitchell Intll,Directed,1330,,,0.1804
+General Mitchell Intll,San Diego Intl-Lindbergh Fld,Directed,1331,,,0.1782
+General Mitchell Intll,Tampa Intl,Directed,1332,,,0.1457
+Dane County Regional-Truax Fie,General Mitchell Intll,Directed,1333,,,0.0075
+Wittman Regional,General Mitchell Intll,Directed,1334,,,0.0104
+Chicago O'hare Intl,Robert Mueller Muni,Directed,1335,,,0.1222
+Dallas/Fort Worth Intl,Robert Mueller Muni,Directed,1336,,,0.025
+Stapleton Intl,Robert Mueller Muni,Directed,1337,,,0.0977
+Phoenix Sky Harbor Intl,Robert Mueller Muni,Directed,1338,,,0.0788
+Pittsburgh Intll,Robert Mueller Muni,Directed,1339,,,0.1319
+Robert Mueller Muni,Houston Intercontinental,Directed,1340,,,0.0124
+Philadelphia Intl,Robert Mueller Muni,Directed,1341,,,0.1465
+Charlotte/Douglas Intl,Robert Mueller Muni,Directed,1342,,,0.0974
+Memphis Intl,Robert Mueller Muni,Directed,1343,,,0.06
+Robert Mueller Muni,William P Hobby,Directed,1344,,,0.0138
+San Jose Intll,Robert Mueller Muni,Directed,1345,,,0.1407
+Dallas Love Field,Robert Mueller Muni,Directed,1346,,,0.0248
+Robert Mueller Muni,San Antonio Intl,Directed,1347,,,0.0083
+El Paso Intl,Robert Mueller Muni,Directed,1348,,,0.0465
+Lubbock Intl,Robert Mueller Muni,Directed,1349,,,0.0384
+Midland Intll,Robert Mueller Muni,Directed,1350,,,0.0278
+Robert Mueller Muni,Rio Grande Valley Intl,Directed,1351,,,0.0389
+Chicago O'hare Intl,James M Cox Dayton Intl,Directed,1352,,,0.0273
+James M Cox Dayton Intl,Dallas/Fort Worth Intl,Directed,1353,,,0.0936
+James M Cox Dayton Intl,Los Angeles Intl,Directed,1354,,,0.1832
+La Guardia,James M Cox Dayton Intl,Directed,1355,,,0.0533
+Newark Intl,James M Cox Dayton Intl,Directed,1356,,,0.0517
+Detroit Metropolitan Wayne Cou,James M Cox Dayton Intl,Directed,1357,,,0.0225
+James M Cox Dayton Intl,Lambert-St Louis Intl,Directed,1358,,,0.0332
+Minneapolis-St Paul Intl/Wold-,James M Cox Dayton Intl,Directed,1359,,,0.0661
+James M Cox Dayton Intl,Orlando Intl,Directed,1360,,,0.1106
+Pittsburgh Intll,James M Cox Dayton Intl,Directed,1361,,,0.0211
+James M Cox Dayton Intl,Philadelphia Intl,Directed,1362,,,0.0457
+James M Cox Dayton Intl,Washington National,Directed,1363,,,0.0378
+James M Cox Dayton Intl,Tampa Intl,Directed,1364,,,0.1143
+James M Cox Dayton Intl,Indianapolis Intl,Directed,1365,,,0.0108
+James M Cox Dayton Intl,Louisville Intl,Directed,1366,,,0.0183
+Kent County Intl,James M Cox Dayton Intl,Directed,1367,,,0.0293
+Michiana Rgnl Transportation C,James M Cox Dayton Intl,Directed,1368,,,0.0203
+Fort Wayne Intll,James M Cox Dayton Intl,Directed,1369,,,0.0114
+Capital City,James M Cox Dayton Intl,Directed,1370,,,0.0276
+James M Cox Dayton Intl,Evansville Regional,Directed,1371,,,0.0245
+Bishop Intll,James M Cox Dayton Intl,Directed,1372,,,0.0294
+Sacramento Metropolitan,John Wayne Airport-Orange Coun,Directed,1373,,,0.0516
+Chicago O'hare Intl,Port Columbus Intl,Directed,1374,,,0.0317
+Port Columbus Intl,Dallas/Fort Worth Intl,Directed,1375,,,0.099
+Port Columbus Intl,Los Angeles Intl,Directed,1376,,,0.1898
+John F Kennedy Intl,Port Columbus Intl,Directed,1377,,,0.0468
+Port Columbus Intl,Stapleton Intl,Directed,1378,,,0.112
+La Guardia,Port Columbus Intl,Directed,1379,,,0.0466
+Newark Intl,Port Columbus Intl,Directed,1380,,,0.045
+Port Columbus Intl,Phoenix Sky Harbor Intl,Directed,1381,,,0.161
+Detroit Metropolitan Wayne Cou,Port Columbus Intl,Directed,1382,,,0.0213
+Port Columbus Intl,Lambert-St Louis Intl,Directed,1383,,,0.0398
+Minneapolis-St Paul Intl/Wold-,Port Columbus Intl,Directed,1384,,,0.0703
+Port Columbus Intl,Mc Carran Intl,Directed,1385,,,0.1685
+Port Columbus Intl,Orlando Intl,Directed,1386,,,0.1108
+Pittsburgh Intll,Port Columbus Intl,Directed,1387,,,0.0144
+Port Columbus Intl,Houston Intercontinental,Directed,1388,,,0.1148
+Port Columbus Intl,Philadelphia Intl,Directed,1389,,,0.039
+Port Columbus Intl,Washington National,Directed,1390,,,0.0317
+Port Columbus Intl,Tampa Intl,Directed,1391,,,0.1149
+Port Columbus Intl,Cincinnati/Northern Kentucky I,Directed,1392,,,0.0128
+Chicago Midway,Port Columbus Intl,Directed,1393,,,0.03
+Port Columbus Intl,Indianapolis Intl,Directed,1394,,,0.0175
+General Mitchell Intll,Port Columbus Intl,Directed,1395,,,0.038
+Port Columbus Intl,James M Cox Dayton Intl,Directed,1396,,,0.0068
+Southwest Florida Intl,Miami Intl,Directed,1397,,,0.0103
+Lambert-St Louis Intl,Southwest Florida Intl,Directed,1398,,,0.1246
+Tampa Intl,Southwest Florida Intl,Directed,1399,,,0.0142
+Sarasota/Bradenton Intl,Southwest Florida Intl,Directed,1400,,,0.0092
+Greater Buffalo Intl,Chicago O'hare Intl,Directed,1401,,,0.0476
+Greater Buffalo Intl,John F Kennedy Intl,Directed,1402,,,0.0335
+Greater Buffalo Intl,La Guardia,Directed,1403,,,0.0323
+Greater Buffalo Intl,Newark Intl,Directed,1404,,,0.0317
+Greater Buffalo Intl,Detroit Metropolitan Wayne Cou,Directed,1405,,,0.0245
+Minneapolis-St Paul Intl/Wold-,Greater Buffalo Intl,Directed,1406,,,0.076
+Greater Buffalo Intl,Orlando Intl,Directed,1407,,,0.1392
+Greater Buffalo Intl,Pittsburgh Intll,Directed,1408,,,0.0246
+Greater Buffalo Intl,Philadelphia Intl,Directed,1409,,,0.0343
+Greater Buffalo Intl,Charlotte/Douglas Intl,Directed,1410,,,0.0747
+Greater Buffalo Intl,Washington National,Directed,1411,,,0.0399
+Greater Buffalo Intl,Baltimore-Washington Intl,Directed,1412,,,0.0375
+Greater Buffalo Intl,Washington Dulles Intl,Directed,1413,,,0.0387
+Greater Buffalo Intl,Raleigh-Durham Intll,Directed,1414,,,0.0675
+Greater Buffalo Intl,Cincinnati/Northern Kentucky I,Directed,1415,,,0.0479
+Greater Buffalo Intl,Cleveland-Hopkins Intl,Directed,1416,,,0.0216
+Syracuse Hancock Intl,Greater Buffalo Intl,Directed,1417,,,0.0135
+Greater Rochester Intl,Greater Buffalo Intl,Directed,1418,,,0.0057
+Burbank-Glendale-Pasadena,Dallas/Fort Worth Intl,Directed,1419,,,0.1093
+San Francisco Intl,Burbank-Glendale-Pasadena,Directed,1420,,,0.0385
+Stapleton Intl,Burbank-Glendale-Pasadena,Directed,1421,,,0.0869
+Burbank-Glendale-Pasadena,Phoenix Sky Harbor Intl,Directed,1422,,,0.0331
+Mc Carran Intl,Burbank-Glendale-Pasadena,Directed,1423,,,0.0243
+Seattle-Tacoma Intl,Burbank-Glendale-Pasadena,Directed,1424,,,0.1281
+Salt Lake City Intl,Burbank-Glendale-Pasadena,Directed,1425,,,0.0708
+Burbank-Glendale-Pasadena,San Diego Intl-Lindbergh Fld,Directed,1426,,,0.0152
+San Jose Intll,Burbank-Glendale-Pasadena,Directed,1427,,,0.0353
+Portland Intl,Burbank-Glendale-Pasadena,Directed,1428,,,0.1109
+Metropolitan Oakland Intl,Burbank-Glendale-Pasadena,Directed,1429,,,0.0389
+Burbank-Glendale-Pasadena,Ontario Intl,Directed,1430,,,0.0041
+Sacramento Metropolitan,Burbank-Glendale-Pasadena,Directed,1431,,,0.0461
+Fresno Air Terminal,Burbank-Glendale-Pasadena,Directed,1432,,,0.0255
+Santa Barbara Muni,Burbank-Glendale-Pasadena,Directed,1433,,,0.0078
+Chicago O'hare Intl,El Paso Intl,Directed,1434,,,0.1353
+Los Angeles Intl,El Paso Intl,Directed,1435,,,0.0645
+San Francisco Intl,El Paso Intl,Directed,1436,,,0.0986
+Phoenix Sky Harbor Intl,El Paso Intl,Directed,1437,,,0.0327
+Mc Carran Intl,El Paso Intl,Directed,1438,,,0.0606
+El Paso Intl,Houston Intercontinental,Directed,1439,,,0.0588
+San Diego Intl-Lindbergh Fld,El Paso Intl,Directed,1440,,,0.0557
+El Paso Intl,William P Hobby,Directed,1441,,,0.0601
+El Paso Intl,San Antonio Intl,Directed,1442,,,0.0458
+Lubbock Intl,El Paso Intl,Directed,1443,,,0.0292
+Midland Intll,El Paso Intl,Directed,1444,,,0.0213
+Anchorage Intl,Chicago O'hare Intl,Directed,1445,,,0.3655
+Anchorage Intl,Los Angeles Intl,Directed,1446,,,0.3059
+Anchorage Intl,San Francisco Intl,Directed,1447,,,0.2654
+Anchorage Intl,Detroit Metropolitan Wayne Cou,Directed,1448,,,0.3847
+Anchorage Intl,Honolulu Intl,Directed,1449,,,0.3829
+Anchorage Intl,Minneapolis-St Paul Intl/Wold-,Directed,1450,,,0.3284
+Anchorage Intl,Seattle-Tacoma Intl,Directed,1451,,,0.1926
+Anchorage Intl,Salt Lake City Intl,Directed,1452,,,0.2746
+Anchorage Intl,Portland Intl,Directed,1453,,,0.204
+Anchorage Intl,Juneau Intl,Directed,1454,,,0.083
+Fairbanks Intl,Anchorage Intl,Directed,1455,,,0.0365
+Anchorage Intl,Bethel,Directed,1456,,,0.0604
+Anchorage Intl,Dillingham,Directed,1457,,,0.0478
+Ralph Wien Memorial,Anchorage Intl,Directed,1458,,,0.0843
+Deadhorse,Anchorage Intl,Directed,1459,,,0.0866
+Nome,Anchorage Intl,Directed,1460,,,0.0849
+Anchorage Intl,Unalaska,Directed,1461,,,0.1093
+Anchorage Intl,Merle K (Mudhole) Smith,Directed,1462,,,0.0239
+St Mary's,Anchorage Intl,Directed,1463,,,0.0683
+Anchorage Intl,Cold Bay,Directed,1464,,,0.0863
+Anchorage Intl,St Paul Island,Directed,1465,,,0.1099
+Anchorage Intl,Port Heiden,Directed,1466,,,0.0596
+Chicago O'hare Intl,Will Rogers World,Directed,1467,,,0.08
+Will Rogers World,Phoenix Sky Harbor Intl,Directed,1468,,,0.0757
+Lambert-St Louis Intl,Will Rogers World,Directed,1469,,,0.0489
+Salt Lake City Intl,Will Rogers World,Directed,1470,,,0.0895
+Tulsa Intl,Will Rogers World,Directed,1471,,,0.0116
+Elko Muni-J.C. Harris Field,Will Rogers World,Directed,1472,,,0.1062
+Reno/Tahoe Intll,San Francisco Intl,Directed,1473,,,0.0222
+Seattle-Tacoma Intl,Reno/Tahoe Intll,Directed,1474,,,0.077
+Salt Lake City Intl,Reno/Tahoe Intll,Directed,1475,,,0.0416
+Reno/Tahoe Intll,San Diego Intl-Lindbergh Fld,Directed,1476,,,0.0659
+Reno/Tahoe Intll,San Jose Intll,Directed,1477,,,0.0232
+Reno/Tahoe Intll,Sacramento Metropolitan,Directed,1478,,,0.012
+Elko Muni-J.C. Harris Field,Tulsa Intl,Directed,1479,,,0.1105
+Chicago O'hare Intl,Jacksonville Intl,Directed,1480,,,0.1142
+Jacksonville Intl,Miami Intl,Directed,1481,,,0.0455
+La Guardia,Jacksonville Intl,Directed,1482,,,0.106
+Lambert-St Louis Intl,Jacksonville Intl,Directed,1483,,,0.0904
+Jacksonville Intl,Orlando Intl,Directed,1484,,,0.0198
+Pittsburgh Intll,Jacksonville Intl,Directed,1485,,,0.0958
+Philadelphia Intl,Jacksonville Intl,Directed,1486,,,0.0954
+Raleigh-Durham Intll,Jacksonville Intl,Directed,1487,,,0.0535
+Jacksonville Intl,Palm Beach Intl,Directed,1488,,,0.0373
+Savannah Intll,Jacksonville Intl,Directed,1489,,,0.0158
+Jacksonville Intl,Pensacola Regional,Directed,1490,,,0.028
+Jacksonville Intl,Melbourne Intll,Directed,1491,,,0.0235
+Lambert-St Louis Intl,Norfolk Intl,Directed,1492,,,0.0743
+Pittsburgh Intll,Norfolk Intl,Directed,1493,,,0.04
+Philadelphia Intl,Norfolk Intl,Directed,1494,,,0.0289
+Norfolk Intl,Raleigh-Durham Intll,Directed,1495,,,0.0164
+Cleveland-Hopkins Intl,Norfolk Intl,Directed,1496,,,0.0519
+Richmond Intll,Norfolk Intl,Directed,1497,,,0.0082
+Amarillo Intl,Tucson Intl,Directed,1498,,,0.0555
+Lihue,Kahului,Directed,1499,,,0.018
+Bangor Intl,General Edward Lawrence Logan,Directed,1500,,,0.0259
+Bangor Intl,Newark Intl,Directed,1501,,,0.0478
+Bangor Intl,Theodore Francis Green State,Directed,1502,,,0.0323
+Bangor Intl,Portland Intl Jetport,Directed,1503,,,0.0134
+Bangor Intl,Manchester,Directed,1504,,,0.0223
+Greater Rochester Intl,Syracuse Hancock Intl,Directed,1505,,,0.008
+Theodore Francis Green State,Raleigh-Durham Intll,Directed,1506,,,0.0673
+Albany County,Chicago O'hare Intl,Directed,1507,,,0.0722
+Albany County,The William B Hartsfield Atlan,Directed,1508,,,0.1024
+Albany County,La Guardia,Directed,1509,,,0.0189
+Albany County,Detroit Metropolitan Wayne Cou,Directed,1510,,,0.0489
+Albany County,Pittsburgh Intll,Directed,1511,,,0.0392
+Albany County,Philadelphia Intl,Directed,1512,,,0.0285
+Albany County,Charlotte/Douglas Intl,Directed,1513,,,0.0807
+Albany County,Washington National,Directed,1514,,,0.0407
+Albany County,Baltimore-Washington Intl,Directed,1515,,,0.0372
+Albany County,Raleigh-Durham Intll,Directed,1516,,,0.0704
+Albany County,Cincinnati/Northern Kentucky I,Directed,1517,,,0.0657
+Greater Buffalo Intl,Albany County,Directed,1518,,,0.0252
+Portland Intl Jetport,Albany County,Directed,1519,,,0.0198
+Albany County,Stewart Int'l,Directed,1520,,,0.012
+Saipan Intl,Guam Intll,Directed,1521,,,0.0163
+Guam Intll,Babelthuap/Koror,Directed,1522,,,0.0784
+Rota Intl,Guam Intll,Directed,1523,,,0.007
+Chicago O'hare Intl,Birmingham Intl,Directed,1524,,,0.0806
+Birmingham Intl,Dallas/Fort Worth Intl,Directed,1525,,,0.0528
+Lambert-St Louis Intl,Birmingham Intl,Directed,1526,,,0.0529
+Birmingham Intl,Orlando Intl,Directed,1527,,,0.0563
+Pittsburgh Intll,Birmingham Intl,Directed,1528,,,0.0741
+Charlotte/Douglas Intl,Birmingham Intl,Directed,1529,,,0.0335
+Cincinnati/Northern Kentucky I,Birmingham Intl,Directed,1530,,,0.0535
+Memphis Intl,Birmingham Intl,Directed,1531,,,0.0218
+Birmingham Intl,William P Hobby,Directed,1532,,,0.0574
+Nashville Intll,Birmingham Intl,Directed,1533,,,0.0245
+Birmingham Intl,New Orleans Intl/Moisant Fld/,Directed,1534,,,0.0385
+Louisville Intl,Birmingham Intl,Directed,1535,,,0.0444
+Huntsville Intl-Carl T Jones F,Birmingham Intl,Directed,1536,,,0.0103
+Birmingham Intl,Jackson Intll,Directed,1537,,,0.0208
+Birmingham Intl,Shreveport Regional,Directed,1538,,,0.0377
+Birmingham Intl,Dannelly Field,Directed,1539,,,0.0122
+Lambert-St Louis Intl,Louisville Intl,Directed,1540,,,0.0241
+Chicago O'hare Intl,Eppley Airfield,Directed,1541,,,0.0412
+Eppley Airfield,Phoenix Sky Harbor Intl,Directed,1542,,,0.1113
+Eppley Airfield,Lambert-St Louis Intl,Directed,1543,,,0.0373
+Eppley Airfield,Pittsburgh Intll,Directed,1544,,,0.0802
+Eppley Airfield,Salt Lake City Intl,Directed,1545,,,0.0821
+Eppley Airfield,Lincoln Muni,Directed,1546,,,0.0062
+Dallas/Fort Worth Intl,Sarasota/Bradenton Intl,Directed,1547,,,0.0905
+Sarasota/Bradenton Intl,Miami Intl,Directed,1548,,,0.0192
+La Guardia,Sarasota/Bradenton Intl,Directed,1549,,,0.1353
+Lambert-St Louis Intl,Sarasota/Bradenton Intl,Directed,1550,,,0.1155
+Tampa Intl,Sarasota/Bradenton Intl,Directed,1551,,,0.0055
+Los Angeles Intl,Keahole-Kona Intll,Directed,1552,,,0.2349
+San Francisco Intl,Keahole-Kona Intll,Directed,1553,,,0.2421
+Kahului,Keahole-Kona Intll,Directed,1554,,,0.0113
+Lihue,Keahole-Kona Intll,Directed,1555,,,0.0272
+Lambert-St Louis Intl,Adams Field,Directed,1556,,,0.0396
+Memphis Intl,Adams Field,Directed,1557,,,0.0118
+Tulsa Intl,Adams Field,Directed,1558,,,0.0234
+Springfield Regional,Adams Field,Directed,1559,,,0.0247
+Richmond Intll,Roanoke Regional/Woodrum Field,Directed,1560,,,0.0136
+Chicago O'hare Intl,Piedmont Triad Intll,Directed,1561,,,0.0693
+La Guardia,Piedmont Triad Intll,Directed,1562,,,0.0543
+Piedmont Triad Intll,Orlando Intl,Directed,1563,,,0.0735
+Pittsburgh Intll,Piedmont Triad Intll,Directed,1564,,,0.042
+Philadelphia Intl,Piedmont Triad Intll,Directed,1565,,,0.0433
+Washington Dulles Intl,Piedmont Triad Intll,Directed,1566,,,0.03
+Piedmont Triad Intll,Raleigh-Durham Intll,Directed,1567,,,0.0062
+Roanoke Regional/Woodrum Field,Piedmont Triad Intll,Directed,1568,,,0.0118
+Spokane Intl,Chicago O'hare Intl,Directed,1569,,,0.1602
+Spokane Intl,San Francisco Intl,Directed,1570,,,0.0986
+Spokane Intl,Minneapolis-St Paul Intl/Wold-,Directed,1571,,,0.1266
+Spokane Intl,Seattle-Tacoma Intl,Directed,1572,,,0.0244
+Spokane Intl,Salt Lake City Intl,Directed,1573,,,0.0712
+Spokane Intl,Portland Intl,Directed,1574,,,0.0323
+Spokane Intl,Missoula Intll,Directed,1575,,,0.0187
+Spokane Intl,Great Falls Intl,Directed,1576,,,0.0314
+Spokane Intl,Helena Regional,Directed,1577,,,0.0299
+Spokane Intl,Lewiston-Nez Perce County,Directed,1578,,,0.0122
+Spokane Intl,Pullman/Moscow Regional,Directed,1579,,,0.0086
+Chicago O'hare Intl,Des Moines Intl,Directed,1580,,,0.0296
+Des Moines Intl,Phoenix Sky Harbor Intl,Directed,1581,,,0.1214
+Des Moines Intl,Lambert-St Louis Intl,Directed,1582,,,0.0315
+Minneapolis-St Paul Intl/Wold-,Des Moines Intl,Directed,1583,,,0.0321
+Des Moines Intl,Pittsburgh Intll,Directed,1584,,,0.0691
+Des Moines Intl,Eppley Airfield,Directed,1585,,,0.0116
+Des Moines Intl,Elko Muni-J.C. Harris Field,Directed,1586,,,0.1129
+Kent County Intl,Chicago O'hare Intl,Directed,1587,,,0.0149
+Minneapolis-St Paul Intl/Wold-,Kent County Intl,Directed,1588,,,0.0435
+Kent County Intl,Pittsburgh Intll,Directed,1589,,,0.0354
+Kent County Intl,Indianapolis Intl,Directed,1590,,,0.0305
+General Mitchell Intll,Kent County Intl,Directed,1591,,,0.0121
+San Francisco Intl,Long Beach /Daugherty Field/,Directed,1592,,,0.0423
+Long Beach /Daugherty Field/,Phoenix Sky Harbor Intl,Directed,1593,,,0.0314
+Metropolitan Oakland Intl,Long Beach /Daugherty Field/,Directed,1594,,,0.0427
+Santa Barbara Muni,Long Beach /Daugherty Field/,Directed,1595,,,0.0104
+Chicago O'hare Intl,Charleston Afb/Intl,Directed,1596,,,0.0955
+La Guardia,Charleston Afb/Intl,Directed,1597,,,0.0815
+Newark Intl,Charleston Afb/Intl,Directed,1598,,,0.0802
+Charlotte/Douglas Intl,Charleston Afb/Intl,Directed,1599,,,0.0226
+Washington National,Charleston Afb/Intl,Directed,1600,,,0.0589
+Washington Dulles Intl,Charleston Afb/Intl,Directed,1601,,,0.0592
+Raleigh-Durham Intll,Charleston Afb/Intl,Directed,1602,,,0.0291
+Charleston Afb/Intl,Jacksonville Intl,Directed,1603,,,0.0245
+Charleston Afb/Intl,Savannah Intll,Directed,1604,,,0.0095
+Kahului,Hilo Intll,Directed,1605,,,0.0133
+Keahole-Kona Intll,Hilo Intll,Directed,1606,,,0.0051
+Boise Air Terminal /Gowen Fld/,Chicago O'hare Intl,Directed,1607,,,0.145
+Boise Air Terminal /Gowen Fld/,Los Angeles Intl,Directed,1608,,,0.0927
+Boise Air Terminal /Gowen Fld/,San Francisco Intl,Directed,1609,,,0.0649
+Boise Air Terminal /Gowen Fld/,Stapleton Intl,Directed,1610,,,0.0681
+Seattle-Tacoma Intl,Boise Air Terminal /Gowen Fld/,Directed,1611,,,0.0483
+Boise Air Terminal /Gowen Fld/,Salt Lake City Intl,Directed,1612,,,0.0343
+Portland Intl,Boise Air Terminal /Gowen Fld/,Directed,1613,,,0.0378
+Spokane Intl,Boise Air Terminal /Gowen Fld/,Directed,1614,,,0.0393
+Tri-Cities,Boise Air Terminal /Gowen Fld/,Directed,1615,,,0.0297
+Boise Air Terminal /Gowen Fld/,Fanning Field,Directed,1616,,,0.0211
+Lewiston-Nez Perce County,Boise Air Terminal /Gowen Fld/,Directed,1617,,,0.0271
+Boise Air Terminal /Gowen Fld/,Friedman Memorial,Directed,1618,,,0.0098
+Boise Air Terminal /Gowen Fld/,Twin Falls-Sun Valley Regional,Directed,1619,,,0.0136
+Pullman/Moscow Regional,Boise Air Terminal /Gowen Fld/,Directed,1620,,,0.0307
+Boise Air Terminal /Gowen Fld/,Pocatello Regional,Directed,1621,,,0.0195
+Chicago O'hare Intl,Harrisburg Intll,Directed,1622,,,0.0592
+Pittsburgh Intll,Harrisburg Intll,Directed,1623,,,0.0178
+Harrisburg Intll,Raleigh-Durham Intll,Directed,1624,,,0.0426
+University Park,Harrisburg Intll,Directed,1625,,,0.0083
+Chicago O'hare Intl,City Of Colorado Springs Muni,Directed,1626,,,0.0907
+City Of Colorado Springs Muni,Dallas/Fort Worth Intl,Directed,1627,,,0.0687
+Stapleton Intl,City Of Colorado Springs Muni,Directed,1628,,,0.0094
+City Of Colorado Springs Muni,Phoenix Sky Harbor Intl,Directed,1629,,,0.0634
+City Of Colorado Springs Muni,Lambert-St Louis Intl,Directed,1630,,,0.073
+City Of Colorado Springs Muni,Mc Carran Intl,Directed,1631,,,0.0593
+Salt Lake City Intl,City Of Colorado Springs Muni,Directed,1632,,,0.0416
+City Of Colorado Springs Muni,Pueblo Memorial,Directed,1633,,,0.005
+La Guardia,Greenville-Spartanburg,Directed,1634,,,0.0704
+Philadelphia Intl,Greenville-Spartanburg,Directed,1635,,,0.0593
+Raleigh-Durham Intll,Greenville-Spartanburg,Directed,1636,,,0.0197
+Chicago O'hare Intl,Wichita Mid-Continent,Directed,1637,,,0.0637
+Wichita Mid-Continent,Phoenix Sky Harbor Intl,Directed,1638,,,0.0845
+Lambert-St Louis Intl,Wichita Mid-Continent,Directed,1639,,,0.0375
+Wichita Mid-Continent,Mc Carran Intl,Directed,1640,,,0.0915
+Pittsburgh Intll,Wichita Mid-Continent,Directed,1641,,,0.0917
+Wichita Mid-Continent,Memphis Intl,Directed,1642,,,0.0453
+Kansas City Intl,Wichita Mid-Continent,Directed,1643,,,0.0209
+Wichita Mid-Continent,Tulsa Intl,Directed,1644,,,0.0159
+Wichita Mid-Continent,Springfield Regional,Directed,1645,,,0.021
+Elko Muni-J.C. Harris Field,Wichita Mid-Continent,Directed,1646,,,0.0983
+Cyril E King,Alexander Hamilton,Directed,1647,,,0.0061
+Chicago O'hare Intl,Long Island Mac Arthur,Directed,1648,,,0.0762
+Long Island Mac Arthur,Miami Intl,Directed,1649,,,0.1479
+Long Island Mac Arthur,Orlando Intl,Directed,1650,,,0.1253
+Long Island Mac Arthur,Pittsburgh Intll,Directed,1651,,,0.0364
+Long Island Mac Arthur,Philadelphia Intl,Directed,1652,,,0.014
+Long Island Mac Arthur,Raleigh-Durham Intll,Directed,1653,,,0.0552
+Long Island Mac Arthur,Palm Beach Intl,Directed,1654,,,0.1394
+Syracuse Hancock Intl,Long Island Mac Arthur,Directed,1655,,,0.0269
+Long Island Mac Arthur,Atlantic City Intll,Directed,1656,,,0.0148
+Chicago O'hare Intl,Columbia Metropolitan,Directed,1657,,,0.0842
+Newark Intl,Columbia Metropolitan,Directed,1658,,,0.0736
+Philadelphia Intl,Columbia Metropolitan,Directed,1659,,,0.0641
+Charlotte/Douglas Intl,Columbia Metropolitan,Directed,1660,,,0.0122
+Raleigh-Durham Intll,Columbia Metropolitan,Directed,1661,,,0.0219
+Piedmont Triad Intll,Columbia Metropolitan,Directed,1662,,,0.0215
+Columbia Metropolitan,Charleston Afb/Intl,Directed,1663,,,0.0113
+Dane County Regional-Truax Fie,Chicago O'hare Intl,Directed,1664,,,0.0133
+Dane County Regional-Truax Fie,Lambert-St Louis Intl,Directed,1665,,,0.0422
+Minneapolis-St Paul Intl/Wold-,Dane County Regional-Truax Fie,Directed,1666,,,0.0258
+Dane County Regional-Truax Fie,Pittsburgh Intll,Directed,1667,,,0.0528
+Outagamie County,Dane County Regional-Truax Fie,Directed,1668,,,0.0115
+Houston Intercontinental,Rio Grande Valley Intl,Directed,1669,,,0.0378
+San Antonio Intl,Rio Grande Valley Intl,Directed,1670,,,0.0319
+Savannah Intll,Cyril E King,Directed,1671,,,0.1556
+Newark Intl,Daytona Beach Intl,Directed,1672,,,0.1155
+Daytona Beach Intl,Orlando Intl,Directed,1673,,,0.0072
+Raleigh-Durham Intll,Daytona Beach Intl,Directed,1674,,,0.065
+Jacksonville Intl,Daytona Beach Intl,Directed,1675,,,0.013
+Daytona Beach Intl,Melbourne Intll,Directed,1676,,,0.0105
+Saipan Intl,West Tinian,Directed,1677,,,0.0013
+Chicago O'hare Intl,Huntsville Intl-Carl T Jones F,Directed,1678,,,0.0703
+Washington Dulles Intl,Huntsville Intl-Carl T Jones F,Directed,1679,,,0.0627
+Memphis Intl,Huntsville Intl-Carl T Jones F,Directed,1680,,,0.0169
+Dallas/Fort Worth Intl,Corpus Christi Intl,Directed,1681,,,0.049
+Houston Intercontinental,Corpus Christi Intl,Directed,1682,,,0.0238
+William P Hobby,Corpus Christi Intl,Directed,1683,,,0.0212
+Fresno Air Terminal,Los Angeles Intl,Directed,1684,,,0.0279
+San Francisco Intl,Fresno Air Terminal,Directed,1685,,,0.0157
+Salt Lake City Intl,Fresno Air Terminal,Directed,1686,,,0.0549
+Fresno Air Terminal,San Diego Intl-Lindbergh Fld,Directed,1687,,,0.0407
+Metropolitan Oakland Intl,Fresno Air Terminal,Directed,1688,,,0.0156
+Fresno Air Terminal,Ontario Intl,Directed,1689,,,0.0282
+Fresno Air Terminal,John Wayne Airport-Orange Coun,Directed,1690,,,0.0311
+Sacramento Metropolitan,Fresno Air Terminal,Directed,1691,,,0.0208
+Reno/Tahoe Intll,Fresno Air Terminal,Directed,1692,,,0.026
+Modesto City-County--Harry Sha,Fresno Air Terminal,Directed,1693,,,0.0103
+Merced Municipal/Macready Fiel,Fresno Air Terminal,Directed,1694,,,0.0064
+Mammoth Lakes,Fresno Air Terminal,Directed,1695,,,0.0093
+Tallahassee Regional,Tampa Intl,Directed,1696,,,0.025
+Chicago O'hare Intl,Amarillo Intl,Directed,1697,,,0.0955
+Amarillo Intl,Dallas/Fort Worth Intl,Directed,1698,,,0.0325
+Amarillo Intl,Dallas Love Field,Directed,1699,,,0.0335
+Amarillo Intl,Lubbock Intl,Directed,1700,,,0.0148
+Elko Muni-J.C. Harris Field,Amarillo Intl,Directed,1701,,,0.0895
+San Francisco Intl,Palm Springs Regional,Directed,1702,,,0.047
+Lambert-St Louis Intl,Palm Springs Regional,Directed,1703,,,0.1413
+Salt Lake City Intl,Palm Springs Regional,Directed,1704,,,0.0704
+San Jose Intll,Palm Springs Regional,Directed,1705,,,0.0436
+Palm Springs Regional,Tucson Intl,Directed,1706,,,0.0327
+Dallas/Fort Worth Intl,"Baton Rouge Metropolitan, Ryan",Directed,1707,,,0.0375
+"Baton Rouge Metropolitan, Ryan",Houston Intercontinental,Directed,1708,,,0.022
+Memphis Intl,"Baton Rouge Metropolitan, Ryan",Directed,1709,,,0.0435
+Jackson Intll,"Baton Rouge Metropolitan, Ryan",Directed,1710,,,0.0177
+Mobile Regional,"Baton Rouge Metropolitan, Ryan",Directed,1711,,,0.0149
+Shreveport Regional,"Baton Rouge Metropolitan, Ryan",Directed,1712,,,0.0228
+Pensacola Regional,Tampa Intl,Directed,1713,,,0.0337
+Chicago O'hare Intl,Lehigh Valley Intll,Directed,1714,,,0.0648
+Lehigh Valley Intll,The William B Hartsfield Atlan,Directed,1715,,,0.0811
+Detroit Metropolitan Wayne Cou,Lehigh Valley Intll,Directed,1716,,,0.043
+Lehigh Valley Intll,Pittsburgh Intll,Directed,1717,,,0.0244
+Lehigh Valley Intll,Charlotte/Douglas Intl,Directed,1718,,,0.059
+Lehigh Valley Intll,Raleigh-Durham Intll,Directed,1719,,,0.0487
+Lehigh Valley Intll,Harrisburg Intll,Directed,1720,,,0.008
+Burlington Intl,Chicago O'hare Intl,Directed,1721,,,0.0788
+Burlington Intl,La Guardia,Directed,1722,,,0.0355
+Burlington Intl,Newark Intl,Directed,1723,,,0.0365
+Burlington Intl,Pittsburgh Intll,Directed,1724,,,0.0523
+Burlington Intl,Philadelphia Intl,Directed,1725,,,0.0452
+Burlington Intl,Washington Dulles Intl,Directed,1726,,,0.0572
+Burlington Intl,Manchester,Directed,1727,,,0.0171
+Jackson Intll,Mobile Regional,Directed,1728,,,0.018
+Shreveport Regional,Jackson Intll,Directed,1729,,,0.0191
+Chicago O'hare Intl,Cedar Rapids Muni,Directed,1730,,,0.0194
+Cedar Rapids Muni,Stapleton Intl,Directed,1731,,,0.07
+Cedar Rapids Muni,Phoenix Sky Harbor Intl,Directed,1732,,,0.1312
+Cedar Rapids Muni,Lambert-St Louis Intl,Directed,1733,,,0.0307
+Minneapolis-St Paul Intl/Wold-,Cedar Rapids Muni,Directed,1734,,,0.0297
+Cedar Rapids Muni,Quad-City,Directed,1735,,,0.0073
+Sioux Gateway,Cedar Rapids Muni,Directed,1736,,,0.0243
+Chicago O'hare Intl,Blue Grass,Directed,1737,,,0.0412
+Lambert-St Louis Intl,Blue Grass,Directed,1738,,,0.0301
+Pittsburgh Intll,Blue Grass,Directed,1739,,,0.0323
+Louisville Intl,Blue Grass,Directed,1740,,,0.0059
+Blue Grass,Mc Ghee Tyson,Directed,1741,,,0.0215
+Blue Grass,Roanoke Regional/Woodrum Field,Directed,1742,,,0.0246
+Michiana Rgnl Transportation C,Lambert-St Louis Intl,Directed,1743,,,0.0349
+Mobile Regional,Pensacola Regional,Directed,1744,,,0.0058
+Monroe Regional,Mobile Regional,Directed,1745,,,0.0261
+Detroit City,Lambert-St Louis Intl,Directed,1746,,,0.0512
+Detroit City,Chicago Midway,Directed,1747,,,0.0248
+Detroit City,Indianapolis Intl,Directed,1748,,,0.0306
+Manchester,Chicago O'hare Intl,Directed,1749,,,0.0844
+Manchester,Pittsburgh Intll,Directed,1750,,,0.0505
+Manchester,Philadelphia Intl,Directed,1751,,,0.0351
+General Edward Lawrence Logan,Atlantic City Intll,Directed,1752,,,0.0332
+Detroit Metropolitan Wayne Cou,Atlantic City Intll,Directed,1753,,,0.0519
+Pittsburgh Intll,Atlantic City Intll,Directed,1754,,,0.0305
+Cleveland-Hopkins Intl,Atlantic City Intll,Directed,1755,,,0.0415
+Theodore Francis Green State,Atlantic City Intll,Directed,1756,,,0.027
+Melbourne Intll,Tampa Intl,Directed,1757,,,0.0097
+Raleigh-Durham Intll,Melbourne Intll,Directed,1758,,,0.0749
+Melbourne Intll,Southwest Florida Intl,Directed,1759,,,0.016
+Chicago O'hare Intl,Westchester County,Directed,1760,,,0.0728
+Minneapolis-St Paul Intl/Wold-,Westchester County,Directed,1761,,,0.1058
+Westchester County,Pittsburgh Intll,Directed,1762,,,0.0337
+Tweed-New Haven,Westchester County,Directed,1763,,,0.0046
+Chicago O'hare Intl,Akron-Canton Regional,Directed,1764,,,0.0344
+Akron-Canton Regional,Philadelphia Intl,Directed,1765,,,0.0331
+Akron-Canton Regional,Charlotte/Douglas Intl,Directed,1766,,,0.0546
+Akron-Canton Regional,Washington Dulles Intl,Directed,1767,,,0.0277
+Akron-Canton Regional,Indianapolis Intl,Directed,1768,,,0.0272
+Akron-Canton Regional,James M Cox Dayton Intl,Directed,1769,,,0.0171
+Fort Wayne Intll,Akron-Canton Regional,Directed,1770,,,0.0191
+Youngstown-Warren Regional,Akron-Canton Regional,Directed,1771,,,0.005
+Chicago O'hare Intl,Fort Wayne Intll,Directed,1772,,,0.0168
+Fort Wayne Intll,Pittsburgh Intll,Directed,1773,,,0.0257
+Michiana Rgnl Transportation C,Fort Wayne Intll,Directed,1774,,,0.0089
+Toledo Express,Fort Wayne Intll,Directed,1775,,,0.0092
+Shreveport Regional,Mobile Regional,Directed,1776,,,0.033
+Chicago O'hare Intl,Quad-City,Directed,1777,,,0.0142
+Quad-City,Phoenix Sky Harbor Intl,Directed,1778,,,0.1336
+Quad-City,Lambert-St Louis Intl,Directed,1779,,,0.0258
+Quad-City,Greater Peoria Regional,Directed,1780,,,0.0086
+San Francisco Intl,Santa Barbara Muni,Directed,1781,,,0.0331
+Meadows Field,Santa Barbara Muni,Directed,1782,,,0.0104
+Juneau Intl,Seattle-Tacoma Intl,Directed,1783,,,0.1216
+Juneau Intl,Ketchikan Intl,Directed,1784,,,0.0322
+Juneau Intl,Sitka,Directed,1785,,,0.0131
+Juneau Intl,James A Johnson Petersburg,Directed,1786,,,0.017
+Yakutat,Juneau Intl,Directed,1787,,,0.0281
+Charlotte/Douglas Intl,Lovell Field,Directed,1788,,,0.0217
+Fairbanks Intl,Seattle-Tacoma Intl,Directed,1789,,,0.2109
+Fairbanks Intl,Juneau Intl,Directed,1790,,,0.0915
+Deadhorse,Fairbanks Intl,Directed,1791,,,0.0515
+Wiley Post-Will Rogers Mem,Fairbanks Intl,Directed,1792,,,0.0767
+Mahlon Sweet Field,San Francisco Intl,Directed,1793,,,0.0622
+Seattle-Tacoma Intl,Mahlon Sweet Field,Directed,1794,,,0.032
+Portland Intl,Mahlon Sweet Field,Directed,1795,,,0.0143
+Mahlon Sweet Field,Rogue Valley Intl- M,Directed,1796,,,0.0168
+Roberts Field,Mahlon Sweet Field,Directed,1797,,,0.0106
+Mahlon Sweet Field,Redding Muni,Directed,1798,,,0.0348
+Mahlon Sweet Field,Klamath Falls Intll,Directed,1799,,,0.0202
+Mahlon Sweet Field,North Bend Muni,Directed,1800,,,0.0085
+Austin Straubel Intll,Chicago O'hare Intl,Directed,1801,,,0.024
+Minneapolis-St Paul Intl/Wold-,Austin Straubel Intll,Directed,1802,,,0.0262
+Austin Straubel Intll,Dane County Regional-Truax Fie,Directed,1803,,,0.0143
+Marquette County,Austin Straubel Intll,Directed,1804,,,0.0197
+Austin Straubel Intll,Wittman Regional,Directed,1805,,,0.0053
+Billings Logan Intl,Stapleton Intl,Directed,1806,,,0.0605
+Billings Logan Intl,Minneapolis-St Paul Intl/Wold-,Directed,1807,,,0.0786
+Billings Logan Intl,Salt Lake City Intl,Directed,1808,,,0.0511
+Spokane Intl,Billings Logan Intl,Directed,1809,,,0.049
+Missoula Intll,Billings Logan Intl,Directed,1810,,,0.0302
+Billings Logan Intl,Gallatin Field,Directed,1811,,,0.0133
+Great Falls Intl,Billings Logan Intl,Directed,1812,,,0.0215
+Glacier Park Intl,Billings Logan Intl,Directed,1813,,,0.0377
+Helena Regional,Billings Logan Intl,Directed,1814,,,0.0191
+Bert Mooney,Billings Logan Intl,Directed,1815,,,0.0201
+John F Kennedy Intl,Alexander Hamilton,Directed,1816,,,0.2238
+Miami Intl,Alexander Hamilton,Directed,1817,,,0.1105
+Newark Intl,Alexander Hamilton,Directed,1818,,,0.2247
+Orlando Intl,Alexander Hamilton,Directed,1819,,,0.1326
+Raleigh-Durham Intll,Alexander Hamilton,Directed,1820,,,0.1877
+Savannah Intll,Alexander Hamilton,Directed,1821,,,0.1612
+Capital City,Chicago O'hare Intl,Directed,1822,,,0.0186
+Capital City,Pittsburgh Intll,Directed,1823,,,0.0312
+Capital City,Fort Wayne Intll,Directed,1824,,,0.0175
+Asheville Regional,Charlotte/Douglas Intl,Directed,1825,,,0.0084
+Pittsburgh Intll,Myrtle Beach Intl,Directed,1826,,,0.0654
+Philadelphia Intl,Myrtle Beach Intl,Directed,1827,,,0.0621
+Raleigh-Durham Intll,Myrtle Beach Intl,Directed,1828,,,0.021
+Kalamazoo/Battle Creek Interna,Chicago O'hare Intl,Directed,1829,,,0.0123
+Kalamazoo/Battle Creek Interna,Detroit Metropolitan Wayne Cou,Directed,1830,,,0.0112
+Minneapolis-St Paul Intl/Wold-,Kalamazoo/Battle Creek Interna,Directed,1831,,,0.0465
+Kalamazoo/Battle Creek Interna,Pittsburgh Intll,Directed,1832,,,0.0318
+Kalamazoo/Battle Creek Interna,James M Cox Dayton Intl,Directed,1833,,,0.0233
+Austin Straubel Intll,Kalamazoo/Battle Creek Interna,Directed,1834,,,0.0252
+Capital City,Kalamazoo/Battle Creek Interna,Directed,1835,,,0.0071
+Wilkes-Barre/Scranton Intl,Pittsburgh Intll,Directed,1836,,,0.0243
+Wilkes-Barre/Scranton Intl,Charlotte/Douglas Intl,Directed,1837,,,0.0643
+Wilkes-Barre/Scranton Intl,Baltimore-Washington Intl,Directed,1838,,,0.0212
+Chicago O'hare Intl,Lincoln Muni,Directed,1839,,,0.0464
+Lincoln Muni,Lambert-St Louis Intl,Directed,1840,,,0.0382
+Joe Foss Field,Lincoln Muni,Directed,1841,,,0.0261
+Sioux Gateway,Lincoln Muni,Directed,1842,,,0.015
+San Francisco Intl,Monterey Peninsula,Directed,1843,,,0.0103
+Joe Foss Field,Chicago O'hare Intl,Directed,1844,,,0.0475
+Joe Foss Field,Lambert-St Louis Intl,Directed,1845,,,0.0564
+Minneapolis-St Paul Intl/Wold-,Joe Foss Field,Directed,1846,,,0.0219
+Joe Foss Field,Salt Lake City Intl,Directed,1847,,,0.0821
+Joe Foss Field,Quad-City,Directed,1848,,,0.0376
+Rapid City Regional,Joe Foss Field,Directed,1849,,,0.0325
+Pittsburgh Intll,Yeager,Directed,1850,,,0.0214
+Yeager,Blue Grass,Directed,1851,,,0.0156
+Mbs Intll,Chicago O'hare Intl,Directed,1852,,,0.0245
+Chicago O'hare Intl,Evansville Regional,Directed,1853,,,0.0376
+Lambert-St Louis Intl,Evansville Regional,Directed,1854,,,0.0159
+Pittsburgh Intll,Evansville Regional,Directed,1855,,,0.0439
+Indianapolis Intl,Evansville Regional,Directed,1856,,,0.0172
+The William B Hartsfield Atlan,Bush Field,Directed,1857,,,0.0128
+Charlotte/Douglas Intl,Bush Field,Directed,1858,,,0.0184
+Columbia Metropolitan,Bush Field,Directed,1859,,,0.007
+Bush Field,Savannah Intll,Directed,1860,,,0.0125
+Lambert-St Louis Intl,Springfield Regional,Directed,1861,,,0.0211
+Greater Peoria Regional,Lambert-St Louis Intl,Directed,1862,,,0.0186
+Chicago O'hare Intl,Aspen-Pitkin Co/Sardy Field,Directed,1863,,,0.1001
+Aspen-Pitkin Co/Sardy Field,Dallas/Fort Worth Intl,Directed,1864,,,0.0786
+Aspen-Pitkin Co/Sardy Field,Los Angeles Intl,Directed,1865,,,0.0774
+Stapleton Intl,Aspen-Pitkin Co/Sardy Field,Directed,1866,,,0.0114
+Hector Intll,Chicago O'hare Intl,Directed,1867,,,0.0655
+Hector Intll,Minneapolis-St Paul Intl/Wold-,Directed,1868,,,0.0267
+Hector Intll,Joe Foss Field,Directed,1869,,,0.0319
+Dannelly Field,"Baton Rouge Metropolitan, Ryan",Directed,1870,,,0.0295
+Monroe Regional,Dannelly Field,Directed,1871,,,0.0289
+Piedmont Triad Intll,Fayetteville Regional/Grannis,Directed,1872,,,0.0118
+Chicago O'hare Intl,University Of Illinois-Willard,Directed,1873,,,0.0186
+University Of Illinois-Willard,Lambert-St Louis Intl,Directed,1874,,,0.0162
+Pittsburgh Intll,University Of Illinois-Willard,Directed,1875,,,0.0412
+University Of Illinois-Willard,James M Cox Dayton Intl,Directed,1876,,,0.0207
+Greater Peoria Regional,University Of Illinois-Willard,Directed,1877,,,0.0094
+University Of Illinois-Willard,Hulman Regional,Directed,1878,,,0.0074
+Binghamton Regional/Edwin A Li,Pittsburgh Intll,Directed,1879,,,0.0271
+Binghamton Regional/Edwin A Li,Baltimore-Washington Intl,Directed,1880,,,0.0292
+Outagamie County,Chicago O'hare Intl,Directed,1881,,,0.022
+Outagamie County,General Mitchell Intll,Directed,1882,,,0.0129
+Austin Straubel Intll,Outagamie County,Directed,1883,,,0.003
+Central Wisconsin,Outagamie County,Directed,1884,,,0.0077
+Outagamie County,Wittman Regional,Directed,1885,,,0.0026
+Philadelphia Intl,New Hanover Intll,Directed,1886,,,0.0552
+Raleigh-Durham Intll,New Hanover Intll,Directed,1887,,,0.0159
+Erie Intl,Pittsburgh Intll,Directed,1888,,,0.0152
+Rapid City Regional,Salt Lake City Intl,Directed,1889,,,0.0551
+Seattle-Tacoma Intl,Tri-Cities,Directed,1890,,,0.0197
+Tri-Cities,Salt Lake City Intl,Directed,1891,,,0.0638
+Spokane Intl,Tri-Cities,Directed,1892,,,0.0152
+Pullman/Moscow Regional,Tri-Cities,Directed,1893,,,0.0113
+Bishop Intll,Chicago O'hare Intl,Directed,1894,,,0.0232
+Bishop Intll,Pittsburgh Intll,Directed,1895,,,0.0297
+Bishop Intll,Capital City,Directed,1896,,,0.0047
+Rogue Valley Intl- M,San Francisco Intl,Directed,1897,,,0.0455
+Portland Intl,Rogue Valley Intl- M,Directed,1898,,,0.0307
+Rochester Intll,La Crosse Muni,Directed,1899,,,0.0063
+Worcester Muni,Pittsburgh Intll,Directed,1900,,,0.0458
+Worcester Muni,Philadelphia Intl,Directed,1901,,,0.0286
+Pittsburgh Intll,Newport News/Williamsburg Inte,Directed,1902,,,0.0373
+Jackson Hole,Chicago O'hare Intl,Directed,1903,,,0.1173
+Jackson Hole,Salt Lake City Intl,Directed,1904,,,0.0277
+Jackson Hole,Fanning Field,Directed,1905,,,0.0069
+Missoula Intll,Minneapolis-St Paul Intl/Wold-,Directed,1906,,,0.1082
+Missoula Intll,Salt Lake City Intl,Directed,1907,,,0.0596
+Meadows Field,Dallas/Fort Worth Intl,Directed,1908,,,0.1148
+San Francisco Intl,Meadows Field,Directed,1909,,,0.0268
+Sacramento Metropolitan,Meadows Field,Directed,1910,,,0.0338
+Lambert-St Louis Intl,Drake Field,Directed,1911,,,0.0327
+Charlottesville-Albemarle,Charlotte/Douglas Intl,Directed,1912,,,0.0307
+Washington Dulles Intl,Charlottesville-Albemarle,Directed,1913,,,0.0092
+Charlottesville-Albemarle,Richmond Intll,Directed,1914,,,0.0083
+Bismarck Muni,Stapleton Intl,Directed,1915,,,0.0701
+Bismarck Muni,Minneapolis-St Paul Intl/Wold-,Directed,1916,,,0.0424
+Bismarck Muni,Salt Lake City Intl,Directed,1917,,,0.0809
+Bismarck Muni,Joe Foss Field,Directed,1918,,,0.0367
+Minot Intl,Bismarck Muni,Directed,1919,,,0.0145
+Gallatin Field,Stapleton Intl,Directed,1920,,,0.0656
+Gallatin Field,Minneapolis-St Paul Intl/Wold-,Directed,1921,,,0.0918
+Gallatin Field,Salt Lake City Intl,Directed,1922,,,0.0479
+Spokane Intl,Gallatin Field,Directed,1923,,,0.037
+Missoula Intll,Gallatin Field,Directed,1924,,,0.0185
+Great Falls Intl,Gallatin Field,Directed,1925,,,0.0163
+Helena Regional,Gallatin Field,Directed,1926,,,0.0089
+Ketchikan Intl,Seattle-Tacoma Intl,Directed,1927,,,0.0895
+Sitka,Ketchikan Intl,Directed,1928,,,0.0247
+Wrangell,Ketchikan Intl,Directed,1929,,,0.0113
+Duluth Intl,Minneapolis-St Paul Intl/Wold-,Directed,1930,,,0.0194
+Central Wisconsin,Chicago O'hare Intl,Directed,1931,,,0.0283
+Central Wisconsin,Austin Straubel Intll,Directed,1932,,,0.0084
+Marquette County,Central Wisconsin,Directed,1933,,,0.0198
+Fanning Field,Dallas/Fort Worth Intl,Directed,1934,,,0.1272
+Fanning Field,Salt Lake City Intl,Directed,1935,,,0.0261
+Fanning Field,Pocatello Regional,Directed,1936,,,0.0064
+Capital,Lambert-St Louis Intl,Directed,1937,,,0.011
+Dallas/Fort Worth Intl,Jefferson County,Directed,1938,,,0.032
+Great Falls Intl,Minneapolis-St Paul Intl/Wold-,Directed,1939,,,0.0958
+Great Falls Intl,Salt Lake City Intl,Directed,1940,,,0.0641
+Great Falls Intl,Missoula Intll,Directed,1941,,,0.0149
+Great Falls Intl,Helena Regional,Directed,1942,,,0.009
+Elmira/Corning Regional,Pittsburgh Intll,Directed,1943,,,0.0233
+Tompkins County,Elmira/Corning Regional,Directed,1944,,,0.0038
+Sioux Gateway,Chicago O'hare Intl,Directed,1945,,,0.0434
+Joe Foss Field,Sioux Gateway,Directed,1946,,,0.0113
+Tompkins County,Pittsburgh Intll,Directed,1947,,,0.0271
+Bellingham Intl,Seattle-Tacoma Intl,Directed,1948,,,0.013
+Bellingham Intl,Portland Intl,Directed,1949,,,0.0306
+Bellingham Intl,Elko Muni-J.C. Harris Field,Directed,1950,,,0.0835
+St Mary's,Bethel,Directed,1951,,,0.0143
+Aniak,Bethel,Directed,1952,,,0.014
+Bethel,Quinhagak,Directed,1953,,,0.0098
+Bethel,Eek,Directed,1954,,,0.0055
+Bethel,Tuntutuliak,Directed,1955,,,0.006
+Kwethluk,Bethel,Directed,1956,,,0.002
+Bethel,Kwigillingok,Directed,1957,,,0.0112
+Bethel,Kongiganak,Directed,1958,,,0.0095
+Akiachak,Bethel,Directed,1959,,,0.0023
+Tuluksak,Bethel,Directed,1960,,,0.0053
+Bethel,Napaskiak,Directed,1961,,,0.0009
+Bethel,Napakiak,Directed,1962,,,0.0011
+Monroe Regional,Pensacola Regional,Directed,1963,,,0.0315
+Monroe Regional,Jackson Intll,Directed,1964,,,0.0102
+Monroe Regional,Shreveport Regional,Directed,1965,,,0.0091
+Lambert-St Louis Intl,Fort Smith Regional,Directed,1966,,,0.0385
+Drake Field,Fort Smith Regional,Directed,1967,,,0.0064
+La Crosse Muni,Chicago O'hare Intl,Directed,1968,,,0.025
+Minneapolis-St Paul Intl/Wold-,La Crosse Muni,Directed,1969,,,0.0138
+Durango-La Plata County,Phoenix Sky Harbor Intl,Directed,1970,,,0.0416
+Pittsburgh Intll,Tri-State/Milton J.Ferguson Fi,Directed,1971,,,0.0235
+Grand Forks Intl,Minneapolis-St Paul Intl/Wold-,Directed,1972,,,0.0356
+Minot Intl,Minneapolis-St Paul Intl/Wold-,Directed,1973,,,0.0522
+San Francisco Intl,San Luis Obispo County-Mc Ches,Directed,1974,,,0.0244
+San Luis Obispo County-Mc Ches,Santa Maria Pub/Capt G Allan H,Directed,1975,,,0.0033
+Dallas/Fort Worth Intl,Easterwood Field,Directed,1976,,,0.0223
+Seattle-Tacoma Intl,Elko Muni-J.C. Harris Field,Directed,1977,,,0.0714
+Elko Muni-J.C. Harris Field,Salt Lake City Intl,Directed,1978,,,0.0194
+Portland Intl,Elko Muni-J.C. Harris Field,Directed,1979,,,0.0572
+Spokane Intl,Elko Muni-J.C. Harris Field,Directed,1980,,,0.0655
+Rapid City Regional,Elko Muni-J.C. Harris Field,Directed,1981,,,0.0717
+William B. Heilig Field,Elko Muni-J.C. Harris Field,Directed,1982,,,0.0629
+Luis Munoz Marin Intl,Eugenio Maria De Hostos,Directed,1983,,,0.0061
+Natrona County Intl,Salt Lake City Intl,Directed,1984,,,0.0347
+Rapid City Regional,Natrona County Intl,Directed,1985,,,0.0204
+Anchorage Intl,Kodiak,Directed,1986,,,0.0351
+Yakima Air Terminal,Tri-Cities,Directed,1987,,,0.0078
+Glacier Park Intl,Salt Lake City Intl,Directed,1988,,,0.0728
+Glacier Park Intl,Spokane Intl,Directed,1989,,,0.018
+Glacier Park Intl,Missoula Intll,Directed,1990,,,0.0133
+Glacier Park Intl,Great Falls Intl,Directed,1991,,,0.0167
+Glacier Park Intl,Helena Regional,Directed,1992,,,0.02
+Roberts Field,San Francisco Intl,Directed,1993,,,0.0637
+William R Fairchild Intl,Seattle-Tacoma Intl,Directed,1994,,,0.0089
+Arcata,San Francisco Intl,Directed,1995,,,0.0333
+Arcata,Sacramento Metropolitan,Directed,1996,,,0.0253
+Jack Mc Namara Field,Arcata,Directed,1997,,,0.0076
+Redding Muni,San Francisco Intl,Directed,1998,,,0.0276
+Portland Intl,Redding Muni,Directed,1999,,,0.0485
+Mcnary Fld,Redding Muni,Directed,2000,,,0.0422
+Dallas/Fort Worth Intl,Abilene Regional,Directed,2001,,,0.0143
+Chicago O'hare Intl,Bloomington/Normal,Directed,2002,,,0.0152
+Bloomington/Normal,Lambert-St Louis Intl,Directed,2003,,,0.018
+Bloomington/Normal,Decatur,Directed,2004,,,0.0062
+Bloomington/Normal,Hulman Regional,Directed,2005,,,0.0128
+Stockton Metropolitan,San Francisco Intl,Directed,2006,,,0.0063
+Waterloo Muni,Chicago O'hare Intl,Directed,2007,,,0.0236
+Waterloo Muni,Lambert-St Louis Intl,Directed,2008,,,0.0378
+Waterloo Muni,Cedar Rapids Muni,Directed,2009,,,0.0073
+Waterloo Muni,Dubuque Regional,Directed,2010,,,0.0087
+Kahului,Lanai,Directed,2011,,,0.0028
+Molokai,Lanai,Directed,2012,,,0.0036
+Muskegon County,Chicago O'hare Intl,Directed,2013,,,0.0142
+Sitka,Seattle-Tacoma Intl,Directed,2014,,,0.1134
+Helena Regional,Salt Lake City Intl,Directed,2015,,,0.0556
+Missoula Intll,Helena Regional,Directed,2016,,,0.0112
+Gunnison County,Houston Intercontinental,Directed,2017,,,0.1008
+Flagstaff Pulliam,Phoenix Sky Harbor Intl,Directed,2018,,,0.0164
+Chicago O'hare Intl,Yampa Valley,Directed,2019,,,0.0994
+Yampa Valley,Los Angeles Intl,Directed,2020,,,0.0845
+Minneapolis-St Paul Intl/Wold-,Yampa Valley,Directed,2021,,,0.0829
+Yampa Valley,Houston Intercontinental,Directed,2022,,,0.1171
+Yampa Valley,San Jose Intll,Directed,2023,,,0.0806
+Ralph Wien Memorial,Nome,Directed,2024,,,0.0269
+Chicago O'hare Intl,Decatur,Directed,2025,,,0.0211
+Decatur,Lambert-St Louis Intl,Directed,2026,,,0.0128
+Anchorage Intl,King Salmon,Directed,2027,,,0.0414
+Dillingham,King Salmon,Directed,2028,,,0.01
+Chicago O'hare Intl,Tweed-New Haven,Directed,2029,,,0.0768
+Dallas/Fort Worth Intl,Waco Regional,Directed,2030,,,0.0122
+Seattle-Tacoma Intl,Lewiston-Nez Perce County,Directed,2031,,,0.0288
+Lewiston-Nez Perce County,Portland Intl,Directed,2032,,,0.0294
+Lewiston-Nez Perce County,Tri-Cities,Directed,2033,,,0.0107
+Yakima Air Terminal,Lewiston-Nez Perce County,Directed,2034,,,0.018
+Pullman/Moscow Regional,Lewiston-Nez Perce County,Directed,2035,,,0.0036
+Columbia Regional,Lambert-St Louis Intl,Directed,2036,,,0.0095
+Gregg County,Tyler Pounds Field,Directed,2037,,,0.0035
+Marquette County,Chicago O'hare Intl,Directed,2038,,,0.0435
+Marquette County,Cherry Capital,Directed,2039,,,0.0199
+Seattle-Tacoma Intl,Pullman/Moscow Regional,Directed,2040,,,0.0273
+Dubuque Regional,Chicago O'hare Intl,Directed,2041,,,0.0149
+Seattle-Tacoma Intl,Pangborn Memorial,Directed,2042,,,0.0107
+Pangborn Memorial,Portland Intl,Directed,2043,,,0.0212
+Pangborn Memorial,Grant County,Directed,2044,,,0.0048
+Saipan Intl,Babelthuap/Koror,Directed,2045,,,0.0935
+Spokane Intl,Bert Mooney,Directed,2046,,,0.0302
+Missoula Intll,Bert Mooney,Directed,2047,,,0.0123
+Bert Mooney,Gallatin Field,Directed,2048,,,0.007
+Glacier Park Intl,Bert Mooney,Directed,2049,,,0.0242
+Helena Regional,Bert Mooney,Directed,2050,,,0.0067
+Lambert-St Louis Intl,Barkley Regional,Directed,2051,,,0.0181
+Lambert-St Louis Intl,Joplin Regional,Directed,2052,,,0.0261
+Springfield Regional,Joplin Regional,Directed,2053,,,0.0058
+Saipan Intl,Rota Intl,Directed,2054,,,0.0093
+Pocatello Regional,Twin Falls-Sun Valley Regional,Directed,2055,,,0.0105
+Chicago O'hare Intl,Purdue University,Directed,2056,,,0.0157
+Wiley Post-Will Rogers Mem,Anchorage Intl,Directed,2057,,,0.1026
+Wiley Post-Will Rogers Mem,Deadhorse,Directed,2058,,,0.0436
+Modesto City-County--Harry Sha,San Francisco Intl,Directed,2059,,,0.0072
+Merrill C Meigs,Capital,Directed,2060,,,0.022
+Merle K (Mudhole) Smith,Yakutat,Directed,2061,,,0.0311
+Chicago O'hare Intl,Burlington Regional,Directed,2062,,,0.02
+Burlington Regional,Lambert-St Louis Intl,Directed,2063,,,0.0198
+Quad-City,Burlington Regional,Directed,2064,,,0.0071
+Burlington Regional,Greater Peoria Regional,Directed,2065,,,0.0074
+Portland Intl,Klamath Falls Intll,Directed,2066,,,0.0331
+Rogue Valley Intl- M,Klamath Falls Intll,Directed,2067,,,0.0062
+Roberts Field,Klamath Falls Intll,Directed,2068,,,0.0203
+Klamath Falls Intll,Redding Muni,Directed,2069,,,0.0159
+Mcnary Fld,Klamath Falls Intll,Directed,2070,,,0.0271
+Seattle-Tacoma Intl,Walla Walla Regional,Directed,2071,,,0.0242
+Walla Walla Regional,Portland Intl,Directed,2072,,,0.0225
+Tri-Cities,Walla Walla Regional,Directed,2073,,,0.0046
+Yakima Air Terminal,Walla Walla Regional,Directed,2074,,,0.0124
+Lewiston-Nez Perce County,Walla Walla Regional,Directed,2075,,,0.0069
+Pullman/Moscow Regional,Walla Walla Regional,Directed,2076,,,0.0087
+Walla Walla Regional,Eastern Oregon Regional At Pen,Directed,2077,,,0.0048
+Grant County,Walla Walla Regional,Directed,2078,,,0.0119
+Sitka,James A Johnson Petersburg,Directed,2079,,,0.0125
+James A Johnson Petersburg,Wrangell,Directed,2080,,,0.0043
+Luis Munoz Marin Intl,Mercedita,Directed,2081,,,0.005
+Portland Intl,North Bend Muni,Directed,2082,,,0.0223
+Mcnary Fld,North Bend Muni,Directed,2083,,,0.0156
+Greenbrier Valley,Raleigh-Durham Intll,Directed,2084,,,0.0207
+Chico Muni,San Francisco Intl,Directed,2085,,,0.021
+Quad-City,Quincy Muni Baldwin Field,Directed,2086,,,0.0148
+Lambert-St Louis Intl,Williamson County Regional,Directed,2087,,,0.0118
+Purdue University,Hulman Regional,Directed,2088,,,0.0094
+St Mary's,Aniak,Directed,2089,,,0.0197
+Aniak,Anchorage Intl,Directed,2090,,,0.0488
+Anchorage Intl,Adak Naf,Directed,2091,,,0.1622
+Unalaska,Adak Naf,Directed,2092,,,0.0549
+Eareckson As,Adak Naf,Directed,2093,,,0.0478
+Gustavus,Juneau Intl,Directed,2094,,,0.0057
+Cold Bay,Unalaska,Directed,2095,,,0.0232
+St Paul Island,Cold Bay,Directed,2096,,,0.0425
+John F Kennedy Intl,Rafael Hernandez,Directed,2097,,,0.2143
+Miami Intl,Rafael Hernandez,Directed,2098,,,0.0968
+Newark Intl,Rafael Hernandez,Directed,2099,,,0.2151
+Rafael Hernandez,Mercedita,Directed,2100,,,0.0054
+Lambert-St Louis Intl,Cape Girardeau Regional,Directed,2101,,,0.0151
+Williamson County Regional,Cape Girardeau Regional,Directed,2102,,,0.0058
+Eastern Oregon Regional At Pen,Portland Intl,Directed,2103,,,0.0191
+Tri-Cities,Eastern Oregon Regional At Pen,Directed,2104,,,0.0057
+Chicago O'hare Intl,Eagle County Regional,Directed,2105,,,0.0993
+Eagle County Regional,Phoenix Sky Harbor Intl,Directed,2106,,,0.0647
+Salt Lake City Intl,Eagle County Regional,Directed,2107,,,0.028
+San Francisco Intl,Merced Municipal/Macready Fiel,Directed,2108,,,0.0099
+Seattle-Tacoma Intl,Grant County,Directed,2109,,,0.0154
+Grant County,Yakima Air Terminal,Directed,2110,,,0.0087
+Anchorage Intl,Eareckson As,Directed,2111,,,0.1999
+Anchorage Intl,Sand Point,Directed,2112,,,0.0774
+Jack Mc Namara Field,San Francisco Intl,Directed,2113,,,0.0408
+Tuntutuliak,Kongiganak,Directed,2114,,,0.0038
+Tuntutuliak,Kwigillingok,Directed,2115,,,0.0053
+Kongiganak,Kwigillingok,Directed,2116,,,0.0018
+Port Heiden,Sand Point,Directed,2117,,,0.0184
+Akiachak,Kwethluk,Directed,2118,,,0.001
+Tuluksak,Akiachak,Directed,2119,,,0.003
+Tuluksak,Kwethluk,Directed,2120,,,0.0037
+Akiak,Bethel,Directed,2121,,,0.0033
+Akiachak,Akiak,Directed,2122,,,0.0011
+Tuluksak,Akiak,Directed,2123,,,0.0022
+Kapalua,Kahului,Directed,2124,,,0.0013
+Kapalua,Lanai,Directed,2125,,,0.0022
