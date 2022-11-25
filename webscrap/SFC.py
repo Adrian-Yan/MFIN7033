@@ -45,7 +45,7 @@ for i in range(fund_list.shape[0]):
     if fund_list.loc[i, 'Doc'] != ' ':
         fund_list.loc[i, 'doc_url'] = "https://apps.sfc.hk/productlistWeb/searchProduct/getDocListNoDate.do?lang=EN&ceref={}&docType=OD".format(fund_list.loc[i, 'Sub_Fund_ID'])
 fund_list.to_csv('data/fund_list.csv', index=False)
-
+# you need to manually change the download dir! Sorry for the inconvenience!
 options = webdriver.ChromeOptions()
 prefs = {"profile.default_content_settings.popups": 0,
         "download.default_directory": r"C:\Projects\FundsData\data\Key_Stats\\", # IMPORTANT - ENDING SLASH V IMPORTANT
