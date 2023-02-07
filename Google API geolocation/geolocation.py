@@ -18,7 +18,7 @@ import time
 import numpy as np
 
 comp_data = pd.read_excel("./data/coname_addresses.xlsx")
-gmaps = googlemaps.Client(key='AIzaSyBP9a_wlCkhsKDNFtdtBNOjplpLLgJAK88')
+gmaps = googlemaps.Client(key='')
 # geocode_result = gmaps.geocode('1600 Amphitheatre Parkway, Mountain View, CA')
 WhiteHouse = (38.8976763, -77.0365298)
 
